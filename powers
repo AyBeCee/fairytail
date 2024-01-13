@@ -455,7 +455,7 @@
      { "Name":"Requires Material", "Cost":"–2", "Description":"The character cannot create matter and must have a source of it within range to use his power. "}
      ]
      }, 
- { "Power":"Mind Control (5)", 
+ { "Power":"Mind Control", 
  "Cost":"5",
 "Brief":"Manipulate others ",
 "Trappings":"Concentric rings of energy, mesmerism, voodoo dolls",
@@ -595,7 +595,7 @@
      { "Name":"Whirlwind", "Cost":"+2", "Description":"By running in a tight circle (the size of a Large Burst Template or smaller), every creature within must make a Strength roll or be sucked into a miniature whirlwind and thrown into the air. Place all figures 1d10” away from their current position in a d12 direction (read it like a clock face). Creatures or objects weighing over 300 pounds are not tossed, but suffer a –2 penalty until the whirlwind stops or they move out of it, which requires a Strength roll at –2. This tactic consumes the speedster’s entire action. "}
      ]
      }, 
- { "Power":"Storm (3)", 
+ { "Power":"Storm", 
  "Cost":"3",
 "Brief":"Summons a storm.",
 "Trappings":"Thunder and lightning",
