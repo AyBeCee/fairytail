@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Absorption" : {
         "Power": "Absorption",
         "Cost": "2",
         "Brief": "Soak damage via Power Type",
@@ -23,7 +23,7 @@
             }
         ]
     },
-    {
+    "Ageless" : {
         "Power": "Ageless",
         "Cost": "1",
         "Brief": "The character doesn’t age.",
@@ -37,7 +37,7 @@
             }
         ]
     },
-    {
+    "Altered Form" : {
         "Power": "Altered Form",
         "Cost": "3",
         "Brief": "The character’s body can change into a different substance",
@@ -66,7 +66,7 @@
             }
         ]
     },
-    {
+    "Animal Control" : {
         "Power": "Animal Control",
         "Cost": "2/Level",
         "Brief": "Controls animals",
@@ -90,14 +90,14 @@
             }
         ]
     },
-    {
+    "Aquatic" : {
         "Power": "Aquatic",
         "Cost": "2",
         "Brief": "Cannot drown, +2 to Swimming rolls, Pace equals Swimming skill.",
         "Trappings": "Atlantean heritage, amphibious, sealed systems, gadgets.",
         "Description": "The character is native to and can breathe in water. He doesn’t have to make Swimming rolls to avoid drowning when in water and adds +2 to all Swimming rolls. While in the water, his Pace equals his Swimming skill."
     },
-    {
+    "Armor" : {
         "Power": "Armor",
         "Cost": "1/Level",
         "Brief": "+2 Armor",
@@ -121,7 +121,7 @@
             }
         ]
     },
-    {
+    "Attack, Melee" : {
         "Power": "Attack, Melee",
         "Cost": "2/Level",
         "Brief": "Close combat attack",
@@ -170,7 +170,7 @@
             }
         ]
     },
-    {
+    "Attack, Ranged" : {
         "Power": "Attack, Ranged",
         "Cost": "2/Level",
         "Brief": "Distance attack",
@@ -224,14 +224,14 @@
             }
         ]
     },
-    {
+    "Awareness" : {
         "Power": "Awareness",
         "Cost": "+3/+5",
         "Brief": "ignore obscurement/Gang Up modifers",
         "Trappings": "Radar, sonar, Zen training.",
         "Description": "Your hero ignores any and all obscurement penalties (darkness, fog, invisibility, etc). Cover penalties for solid objects still apply normally. For 5 points, the character can sense all around him, negating all attackers’ Gang Up bonus against him."
     },
-    {
+    "Broadcast" : {
         "Power": "Broadcast",
         "Cost": "2",
         "Brief": "Tap into and manipulate media ",
@@ -255,7 +255,7 @@
             }
         ]
     },
-    {
+    "Burrowing" : {
         "Power": "Burrowing",
         "Cost": "2",
         "Brief": "Tunnel at half Pace ",
@@ -269,7 +269,7 @@
             }
         ]
     },
-    {
+    "Chameleon" : {
         "Power": "Chameleon",
         "Cost": "3",
         "Brief": "Imitate another being ",
@@ -288,14 +288,14 @@
             }
         ]
     },
-    {
+    "Construct" : {
         "Power": "Construct",
         "Cost": "8",
         "Brief": "+2 to recover from being Shaken; doesn’t breathe; immune to disease and poison; ignores one level of wound penalties.",
         "Trappings": "A robot, cyborg, mass of wires",
         "Description": "This character is a living automaton, cyborg, robot, statue, or android. Most are products of alien technology, weird science, or the supernatural. Player character constructs have emotions and can feel fear. Their emotions are often complex, however, and many quest for “true life.” Constructs add +2 when attempting to recover from being Shaken, don’t need to breathe, and are immune to disease and poison. Wild Card constructs ignore one point of wound penalties as well—they may not feel pain but they’re still affected by the damage. Constructs do not heal wounds normally, and cannot recover wounds from the Healing skill or power. Repair is used instead. Each Repair roll requires tools and spare parts (–2 modifier without tools, another –2 without spare parts) and 1d6 hours work."
     },
-    {
+    "Copycat" : {
         "Power": "Copycat",
         "Cost": "1/Level",
         "Brief": "Mimic other Traits and powers",
@@ -344,7 +344,7 @@
             }
         ]
     },
-    {
+    "Damage Field" : {
         "Power": "Damage Field",
         "Cost": "3/Level",
         "Brief": "A damaging aura, by Power Type ",
@@ -378,14 +378,14 @@
             }
         ]
     },
-    {
+    "Danger Sense" : {
         "Power": "Danger Sense",
         "Cost": "2",
         "Brief": "Notice roll to detect hidden dangers, start ambushes on Hold.",
         "Trappings": "ESP, premonitions, uncanny senses",
         "Description": "The character detects and senses danger. He gets a Notice roll to detect hidden dangers, and on a raise starts the first round of an ambush or surprise attack on Hold. (This is a superior version of the Danger Sense Edge and doesn’t stack with it.)"
     },
-    {
+    "Decay" : {
         "Power": "Decay",
         "Cost": "4",
         "Brief": "Destroy material or cause wounds ",
@@ -409,7 +409,7 @@
             }
         ]
     },
-    {
+    "Deflection" : {
         "Power": "Deflection",
         "Cost": "1/Level",
         "Brief": "–1 to be hit by ranged attacks per level ",
@@ -423,28 +423,28 @@
             }
         ]
     },
-    {
+    "Doesn’t Breathe" : {
         "Power": "Doesn’t Breathe",
         "Cost": "2",
         "Brief": "The hero has no need to breathe.",
         "Trappings": "Alien life forms, elementals, immortals. The super doesn’t breathe",
         "Description": "She isn’t affected by inhaled toxins, can’t drown, and doesn’t suffocate in vacuum (this doesn’t protect her from the cold of a vacuum, however—see resistance for that)."
     },
-    {
+    "Doesn’t Eat" : {
         "Power": "Doesn’t Eat",
         "Cost": "1",
         "Brief": "The hero does not need to eat.",
         "Trappings": "Immortals, dimensional being",
         "Description": "The being doesn’t need sustenance of any kind and ignores the effects of Hunger (see Hazards in Savage Worlds). Hunger may not necessarily mean human food. A robot who needs occasional energy or a zombie who needs occasional meat still “eats.” A vampire might have doesn’t eat and still have the Dependency Hindrance for blood. In that case it ignores typical Vigor rolls for hunger but must deal with the more dire effects of Dependency."
     },
-    {
+    "Doesn’t Sleep" : {
         "Power": "Doesn’t Sleep",
         "Cost": "1/2",
         "Brief": "The hero does not need to sleep.",
         "Trappings": "Predatory senses, advanced beings",
         "Description": "The super needs half the normal amount of sleep as humans. For two points, she never sleeps. This can be particularly useful when far from the concrete jungle and in a real one."
     },
-    {
+    "Duplication" : {
         "Power": "Duplication",
         "Cost": "3/Level",
         "Brief": "The character can copy herself ",
@@ -463,7 +463,7 @@
             }
         ]
     },
-    {
+    "Earthquake" : {
         "Power": "Earthquake",
         "Cost": "2",
         "Brief": "Creates an earthquake ",
@@ -487,7 +487,7 @@
             }
         ]
     },
-    {
+    "Energy Control" : {
         "Power": "Energy Control",
         "Cost": "5",
         "Brief": "Manipulates energy, by Power Type. Area Effect (+2), Master (+5), Range (+2), Selective (+2).",
@@ -516,7 +516,7 @@
             }
         ]
     },
-    {
+    "Ensnare" : {
         "Power": "Ensnare",
         "Cost": "3",
         "Brief": "Entangle or entrap foes ",
@@ -535,7 +535,7 @@
             }
         ]
     },
-    {
+    "Explode" : {
         "Power": "Explode",
         "Cost": "2/Level",
         "Brief": "Detonates around the hero ",
@@ -559,7 +559,7 @@
             }
         ]
     },
-    {
+    "Extra Actions" : {
         "Power": "Extra Actions",
         "Cost": "3/Level",
         "Brief": "An additional action per round per level. Fast Action (+2).",
@@ -573,7 +573,7 @@
             }
         ]
     },
-    {
+    "Extra Limbs" : {
         "Power": "Extra Limbs",
         "Cost": "3/Level",
         "Brief": "Extra limbs, granting extra actions ",
@@ -587,7 +587,7 @@
             }
         ]
     },
-    {
+    "Fear" : {
         "Power": "Fear",
         "Cost": "3",
         "Brief": "Cause Fear tests. Scary (–2), Terror (+2).",
@@ -606,14 +606,14 @@
             }
         ]
     },
-    {
+    "Fearless (2)" : {
         "Power": "Fearless (2)",
         "Cost": "2",
         "Brief": "Immune to Fear tests.",
         "Trappings": "Constructs, horror-themed characters, daredevils",
         "Description": "The character is completely immune to Fear checks."
     },
-    {
+    "Flight" : {
         "Power": "Flight",
         "Cost": "2–20",
         "Brief": "The hero can fly and is harder to hit at higher levels. Climb (+1/Level).",
@@ -627,7 +627,7 @@
             }
         ]
     },
-    {
+    "Force Control" : {
         "Power": "Force Control",
         "Cost": "2/Level",
         "Brief": "Manipulate raw force, make force fields. Area Effect (+2), Force Field (+3), Heavy Weapon (+1), Range (+2).",
@@ -656,14 +656,14 @@
             }
         ]
     },
-    {
+    "Gifted" : {
         "Power": "Gifted",
         "Cost": "2",
         "Brief": "Ignore –2 penalty when making unskilled rolls.",
         "Trappings": "Well-read, robotic, hyperintelligent, photographic memory or reflexes",
         "Description": "The character ignores the –2 penalty when making unskilled rolls."
     },
-    {
+    "Growth" : {
         "Power": "Growth",
         "Cost": "3/Level",
         "Brief": "Increases Size, Strength, and Toughness by 1 per level. Big Fists (+1/+2), Fast Growth (+2), Long Stride (+2), Monster (–2).",
@@ -692,7 +692,7 @@
             }
         ]
     },
-    {
+    "Healing" : {
         "Power": "Healing",
         "Cost": "5",
         "Brief": "Heals wounds ",
@@ -721,7 +721,7 @@
             }
         ]
     },
-    {
+    "Heightened Senses" : {
         "Power": "Heightened Senses",
         "Cost": "1/Level",
         "Brief": "Improved sense or perception",
@@ -735,7 +735,7 @@
             }
         ]
     },
-    {
+    "Illusion" : {
         "Power": "Illusion",
         "Cost": "2/Level",
         "Brief": "Creates visual and auditory images ",
@@ -764,14 +764,14 @@
             }
         ]
     },
-    {
+    "Immune to Poison / Disease" : {
         "Power": "Immune to Poison / Disease",
         "Cost": "1 Each",
         "Brief": "The character cannot be poisoned or infected.",
         "Trappings": "Aliens, genetic modifications, filters",
         "Description": "The character is completely immune to poison or disease. The power can be taken twice to resist both—including the poison and infection powers."
     },
-    {
+    "Infection" : {
         "Power": "Infection",
         "Cost": "3",
         "Brief": "Strikes target with fast-acting disease ",
@@ -795,7 +795,7 @@
             }
         ]
     },
-    {
+    "Intangibility" : {
         "Power": "Intangibility",
         "Cost": "5",
         "Brief": "The character can turn ethereal",
@@ -824,7 +824,7 @@
             }
         ]
     },
-    {
+    "Interface" : {
         "Power": "Interface",
         "Cost": "2",
         "Brief": "The hero can tap into electronic devices. Code Breaker (+1).",
@@ -838,7 +838,7 @@
             }
         ]
     },
-    {
+    "Invent" : {
         "Power": "Invent",
         "Cost": "2/Level",
         "Brief": "Mimic other powers by invention. On the Fly (+3).",
@@ -852,7 +852,7 @@
             }
         ]
     },
-    {
+    "Invisibility" : {
         "Power": "Invisibility",
         "Cost": "4/Level",
         "Brief": "The hero is invisible ",
@@ -876,7 +876,7 @@
             }
         ]
     },
-    {
+    "Jinx" : {
         "Power": "Jinx",
         "Cost": "2",
         "Brief": "Opponents suffer misfortune. Improved Jinx (+2).",
@@ -890,7 +890,7 @@
             }
         ]
     },
-    {
+    "Leaping" : {
         "Power": "Leaping",
         "Cost": "1–5",
         "Brief": "The hero can jump great distances or heights ",
@@ -909,7 +909,7 @@
             }
         ]
     },
-    {
+    "Matter Control" : {
         "Power": "Matter Control",
         "Cost": "2/Level",
         "Brief": "Manipulate matter, by Power Type. Constructs (+3), Master (+5), Range (+2), Requires Material (–2).",
@@ -938,7 +938,7 @@
             }
         ]
     },
-    {
+    "Mind Control" : {
         "Power": "Mind Control",
         "Cost": "5",
         "Brief": "Manipulate others ",
@@ -957,7 +957,7 @@
             }
         ]
     },
-    {
+    "Mind Reading" : {
         "Power": "Mind Reading",
         "Cost": "3",
         "Brief": "Read others’ thoughts. Memory Mastery (+3).",
@@ -976,7 +976,7 @@
             }
         ]
     },
-    {
+    "Minions" : {
         "Power": "Minions",
         "Cost": "2/Level",
         "Brief": "The character has allies under his control. Summonable (+4), Super Powers (Varies).",
@@ -995,7 +995,7 @@
             }
         ]
     },
-    {
+    "Negation" : {
         "Power": "Negation",
         "Cost": "4",
         "Brief": "Nullify super powers ",
@@ -1014,7 +1014,7 @@
             }
         ]
     },
-    {
+    "Paralysis" : {
         "Power": "Paralysis",
         "Cost": "3",
         "Brief": "Renders foes immobile. Strong (+1).",
@@ -1028,7 +1028,7 @@
             }
         ]
     },
-    {
+    "Parry" : {
         "Power": "Parry",
         "Cost": "1/Level",
         "Brief": "Increases Parry ",
@@ -1047,7 +1047,7 @@
             }
         ]
     },
-    {
+    "Poison" : {
         "Power": "Poison",
         "Cost": "3",
         "Brief": "Poison foes with a touch",
@@ -1071,7 +1071,7 @@
             }
         ]
     },
-    {
+    "Possession" : {
         "Power": "Possession",
         "Cost": "8",
         "Brief": "Take over a target’s body ",
@@ -1085,7 +1085,7 @@
             }
         ]
     },
-    {
+    "Powers Regeneration" : {
         "Power": "Powers Regeneration",
         "Cost": "2/Level",
         "Brief": "Regenerate wounds. Recovery (+1), Regrowth (+2).",
@@ -1104,7 +1104,7 @@
             }
         ]
     },
-    {
+    "Resistance" : {
         "Power": "Resistance",
         "Cost": "1/5/10",
         "Brief": "Increasing damage resistance versus particular Power Type.",
@@ -1112,7 +1112,7 @@
         "Description": "Your hero is resistant to a particular type of damage or effect chosen from the Power Types (page 21). For 1 point, this grants her +4 Toughness against damage of that type, and +4 to rolls made to resist opposed rolls or effects of that type. She’s generally immune to all but the most intense background effects (but not attacks) of the Power Type as well. A fire controller could enter a burning building at no risk, for example, but still burns should she end up in lava. For 5 points, the character gets +4 to resistance rolls as above, but suffers half damage versus the particular damage type (instead of gaining +4 Toughness). She’s also immune to all but the most extreme background effects. The fire controller would be unaffected by lava but not direct exposure to the sun, for example. For 10 points, the hero resists the damage type completely. A super with resistance to fire takes no damage from attacks with a fire Trapping of any kind, and could literally ignore heat equivalent to the sun. Space",
         "Description": "To survive in space, a hero needs 1 point of resistance to air (for the vacuum), cold, fire/heat, and radiation for a total cost of 4 points. He still needs some way to breathe (or no need to breathe), and he cannot move without flight or some other form of propulsion."
     },
-    {
+    "Shape Change" : {
         "Power": "Shape Change",
         "Cost": "Variable",
         "Brief": "Take on the form of an animal or creature",
@@ -1133,7 +1133,7 @@
             }
         ]
     },
-    {
+    "Shrink" : {
         "Power": "Shrink",
         "Cost": "4",
         "Brief": "Reduce Size ",
@@ -1162,7 +1162,7 @@
             }
         ]
     },
-    {
+    "Speed" : {
         "Power": "Speed",
         "Cost": "Variable",
         "Brief": "The character can move at super speed. Blinding Reflexes (+2), Catch and Throw (+2), Pummel (+1), Surface Tension (+1), Vibrate (+5), Whirlwind (+2).",
@@ -1201,7 +1201,7 @@
             }
         ]
     },
-    {
+    "Storm" : {
         "Power": "Storm",
         "Cost": "3",
         "Brief": "Summons a storm.",
@@ -1225,7 +1225,7 @@
             }
         ]
     },
-    {
+    "Stun" : {
         "Power": "Stun",
         "Cost": "2",
         "Brief": "Temporarily Incapacitates foes. Area Effect (+2/+4), Selective (+2).",
@@ -1249,7 +1249,7 @@
             }
         ]
     },
-    {
+    "Super Attribute" : {
         "Power": "Super Attribute",
         "Cost": "2/Step",
         "Brief": "Increase an attribute a die type (+1 after d12)",
@@ -1263,21 +1263,21 @@
             }
         ]
     },
-    {
+    "Super Edge" : {
         "Power": "Super Edge",
         "Cost": "2/Level",
         "Brief": "Grants a Combat Edge.",
         "Trappings": "",
         "Description": "Extraordinary training or background, extension of super powers. Each level of this power grants the character any one Combat Edge allowed in the setting—regardless of its requirements (except other required Edges—a character still has to have Frenzy before taking Improved Frenzy, for example). Note this power cannot grant other types of Edges (Background, Social, Legendary, etc.)."
     },
-    {
+    "Super Skill" : {
         "Power": "Super Skill",
         "Cost": "1/Step",
         "Brief": "Increase a skill a die type (+1 after d12).",
         "Trappings": "",
         "Description": "Natural genius, software programs, intensive training. Super skill buys or increases a skill (and its maximum) by 1 step per point. This reflects extreme training, talent, or supernatural enhancement of some sort. Super skill counts as a single power regardless of the number of skills affected."
     },
-    {
+    "Swinging" : {
         "Power": "Swinging",
         "Cost": "2",
         "Brief": "Allows movement via swinging. Strong Line (+1).",
@@ -1291,7 +1291,7 @@
             }
         ]
     },
-    {
+    "Telekinesis" : {
         "Power": "Telekinesis",
         "Cost": "2/Level",
         "Brief": "Moves objects with the hero’s mind ",
@@ -1317,7 +1317,7 @@
             }
         ]
     },
-    {
+    "Telepathy" : {
         "Power": "Telepathy",
         "Cost": "2",
         "Brief": "Contact others via thought ",
@@ -1341,7 +1341,7 @@
             }
         ]
     },
-    {
+    "Teleport" : {
         "Power": "Teleport",
         "Cost": "3",
         "Brief": "Disappear and reappear elsewhere.",
@@ -1370,7 +1370,7 @@
             }
         ]
     },
-    {
+    "Toughness" : {
         "Power": "Toughness",
         "Cost": "1/Level",
         "Brief": "Increases Toughness ",
@@ -1384,7 +1384,7 @@
             }
         ]
     },
-    {
+    "Uncanny Reflexes" : {
         "Power": "Uncanny Reflexes",
         "Cost": "4/8",
         "Brief": "–2 or –4 to hit the character",
@@ -1398,21 +1398,21 @@
             }
         ]
     },
-    {
+    "Undead" : {
         "Power": "Undead",
         "Cost": "0",
         "Brief": "+2 Toughness; +2 to recover from Shaken; doesn’t breathe; immune to disease & poison; no additional damage from called shots; ignore 1 level of wound penalties; –2 Cha.",
         "Trappings": "Vampires, liches, zombies, harrowed",
         "Description": "A rare few individuals don’t let even the cold hand of death stop them. These are undead—vampires, zombies, liches, spiteful revenants from beyond the grave, and more. The specifics of your cadavers’ abilities depend on his exact “species,” but all undead have a few things in common. Undead gain +2 to their Toughness, add +2 to recover from being Shaken, don’t breathe, are immune to disease and poison, and don’t suffer additional damage from called shots. Undead Wild Cards also ignore one point of wound penalties. Undead don’t benefit from the Healing skill, but roll natural healing rolls once per day. They suffer –2 Charisma in close contact due to their clammy skin and dark aura. (If your undead is decayed, take the Ugly Hindrance.) Undead who are forced to roll on the Knockout Blow Table do not Bleed Out or suffer permanent injuries—they’re merely Incapacitated until healed. They may still die (again), however, and use the Death & Defeat rules normally."
     },
-    {
+    "Wall Walker" : {
         "Power": "Wall Walker",
         "Cost": "1",
         "Brief": "The hero can walk on horizontal or inverted surfaces.",
         "Trappings": "Adhesive pores, super-grip, extra limbs",
         "Description": "Characters possessing this power can walk on horizontal surfaces or even upside down at their normal Pace (and may run). As long as the surface can support it, wall walking characters may carry their normal load limit with them as they go."
     },
-    {
+    "Whirlwind" : {
         "Power": "Whirlwind",
         "Cost": "2",
         "Brief": "Creates a small cyclone to disrupt foes",
@@ -1431,4 +1431,4 @@
             }
         ]
     }
-]
+}
