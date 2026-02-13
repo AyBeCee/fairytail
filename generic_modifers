@@ -2,17 +2,17 @@
     {
         "Name": "Contingent",
         "Cost": "-1/-2",
-        "Description": "A Contingent ability is triggered on the activation or success of another “primary” ability.<br>For 1 point, the Contingent ability is only triggered when the primary ability is activated. If toughness is linked to altered form, for example, the character cannot use toughness without changing her form.<br>For 2 points, the Contingent ability is activated only with the success of the primary ability. Character Vigor might activate only after a villain successfully uses decay on a foe, for example.<br>In either case, if the primary ability is deactivated or negated, all Contingent abilities are as well. Permanent abilities that are always on, such as ageless, cannot be Contingent. "
+        "Description": "A Contingent ability is triggered on the activation or success of another “primary” ability.<br><br>For 1 point, the Contingent ability is only triggered when the primary ability is activated. If toughness is linked to altered form, for example, the character cannot use toughness without changing her form.<br><br>For 2 points, the Contingent ability is activated only with the success of the primary ability. Character Vigor might activate only after a villain successfully uses decay on a foe, for example.<br><br>In either case, if the primary ability is deactivated or negated, all Contingent abilities are as well. Permanent abilities that are always on, such as ageless, cannot be Contingent. "
     },
     {
         "Name": "Device",
         "Cost": "-1/-2",
-        "Description": "If the abilities are derived from a wearable item that's hard for a foe to remove, such as a suit of armor, mask, helm, or mystical wristband, reduce the cost by 1.<br>If the item is hand-held and thus can be dropped or disarmed-such as a magic staff or firearm reduce the cost by 2."
+        "Description": "If the abilities are derived from a wearable item that's hard for a foe to remove, such as a suit of armor, mask, helm, or mystical wristband, reduce the cost by 1.<br><br>If the item is hand-held and thus can be dropped or disarmed-such as a magic staff or firearm reduce the cost by 2."
     },
     {
         "Name": "Projectile",
         "Cost": "+1",
-        "Description": "This Modifier can be used with any Touch Attack ability, such as copycat, decay, ensnare, fear, infection, paralysis, or poison.<br>Projectile ties this ability to one of the character's ranged attack abilities. A successful hit with the ranged attack activates the linked ability in place of its damage. Resolve the linked ability from there.<br>For example, Arrowhead has a tangle arrow tied to his bow's ranged attack. When he fires the tangle arrow and hits his target, he resolves ensnare rather than rolling damage.<br>Note that Projectile is either/or-the attacker must decide before he fires whether he's causing damage as usual or using the Projectile."
+        "Description": "This Modifier can be used with any Touch Attack ability, such as copycat, decay, ensnare, fear, infection, paralysis, or poison.<br><br>Projectile ties this ability to one of the character's ranged attack abilities. A successful hit with the ranged attack activates the linked ability in place of its damage. Resolve the linked ability from there.<br><br>For example, Arrowhead has a tangle arrow tied to his bow's ranged attack. When he fires the tangle arrow and hits his target, he resolves ensnare rather than rolling damage.<br><br>Note that Projectile is either/or-the attacker must decide before he fires whether he's causing damage as usual or using the Projectile."
     },
     {
         "Name": "Ranged Touch Attack",
@@ -22,13 +22,13 @@
     {
         "Name": "Requires Activation",
         "Cost": "-1",
-        "Description": "Passive abilities such as armor or absorption are considered a character's natural state and are always on. With this Modifier, the character must first activate the ability as a free action. If taken by surprise, for example, the ability isn't active and has no effect.<br>This reduces the cost of the ability by 1. Requires Activation has no effect on active abilities, such as flight or attacks, since those require actions to perform already",
+        "Description": "Passive abilities such as armor or absorption are considered a character's natural state and are always on. With this Modifier, the character must first activate the ability as a free action. If taken by surprise, for example, the ability isn't active and has no effect.<br><br>This reduces the cost of the ability by 1. Requires Activation has no effect on active abilities, such as flight or attacks, since those require actions to perform already",
         "Cost": "whether a roll is required or not",
-        "Description": ".<br>Once activated, the ability remains in effect until the character decides to drop it. The ability also deactivates if the character is Incapacitated, knocked unconscious, or otherwise cannot consciously maintain it."
+        "Description": ".<br><br>Once activated, the ability remains in effect until the character decides to drop it. The ability also deactivates if the character is Incapacitated, knocked unconscious, or otherwise cannot consciously maintain it."
     },
     {
         "Name": "Slow to Activate",
         "Cost": "-1",
-        "Description": "The character must charge up an ability before it can be used. This requires a full post during which he may do nothing else besides free actions. If the ability is normally always active, he should take 'Requires Activation' as well.<br>Once activated, the ability remains on until the character wishes to deactivate it. This might mean taking off a suit, calming down, or transforming back into human form, for example."
+        "Description": "The character must charge up an ability before it can be used. This requires a full post during which he may do nothing else besides free actions. If the ability is normally always active, he should take 'Requires Activation' as well.<br><br>Once activated, the ability remains on until the character wishes to deactivate it. This might mean taking off a suit, calming down, or transforming back into human form, for example."
     }
 ]
