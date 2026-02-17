@@ -79,9 +79,9 @@
     {
         "Power": "Aquatic",
         "Cost": "2",
-        "Brief": "Cannot drown, +2 to Swimming rolls, Pace equals Swimming skill.",
+        "Brief": "Cannot drown, swim at full speed.",
         "Examples": "Aquarius, the people of Ermina",
-        "Description": "The character is native to and can breathe in water. They don't have to make Swimming rolls to avoid drowning when in water and adds +2 to all Swimming rolls. While in the water, their Pace equals their Swimming skill."
+        "Description": "The character is can breathe in water. They can swim at their full Speed."
     },
     {
         "Power": "Armor",
@@ -185,14 +185,14 @@
     {
         "Power": "Burrowing",
         "Cost": "2",
-        "Brief": "Tunnel at half Pace ",
+        "Brief": "Tunnel at half Speed ",
         "Examples": "Earth control, transform to sand",
-        "Description": "Burrowing characters can tunnel through earth at half Pace (and may “run” as well). A burrowing character may tunnel on their action and erupt from the ground at any point within their burrowing Pace the same round if desired. Earth typically acts as Heavy Armor, Toughness 10, and if the burrower remains near enough to attack, requires a Notice roll at –6 to detect. Burrowers strike by erupting from beneath their opponents and taking them by surprise. When this occurs, the burrowing character makes an opposed Stealth roll versus the target's Notice. If the burrower wins, they gain +2 to attack and damage that round, +4 if they gain a raise. If the target wins and was on Hold, they may attack just as the burrower erupts from the ground. Solid rock, metal, and other hard substances stop the tunneler cold.",
+        "Description": "Burrowing characters can tunnel through earth at half Speed (and may “run” as well). A burrowing character may tunnel on their action and erupt from the ground at any point within their burrowing Speed the same round if desired. Earth typically acts as Heavy Armor, Toughness 10, and if the burrower remains near enough to attack, requires a Notice roll at –6 to detect. Burrowers strike by erupting from beneath their opponents and taking them by surprise. When this occurs, the burrowing character makes an opposed Stealth roll versus the target's Notice. If the burrower wins, they gain +2 to attack and damage that round, +4 if they gain a raise. Solid rock, metal, and other hard substances stop the tunneler cold.",
         "Modifers": [
             {
-                "Name": "Pace",
+                "Name": "Speed",
                 "Cost": "+1",
-                "Description": "The digger can tunnel through rock, metal, and other hard substances at their full Pace. "
+                "Description": "The digger can tunnel through rock, metal, and other hard substances at their full Speed. "
             }
         ]
     },
@@ -279,13 +279,6 @@
                 "Description": "The character can control who is affected by their ability. "
             }
         ]
-    },
-    {
-        "Power": "Danger Sense",
-        "Cost": "2",
-        "Brief": "Notice roll to detect hidden dangers, start ambushes on Hold.",
-        "Examples": "ESP, premonitions, uncanny senses",
-        "Description": "The character detects and senses danger. They get a Notice roll to detect hidden dangers, and on a raise starts the first round of an ambush or surprise attack on Hold."
     },
     {
         "Power": "Decay",
@@ -399,7 +392,7 @@
         "Cost": "3",
         "Brief": "Entangle or entrap foes ",
         "Examples": "Glue bomb, vines, electrical net, handcuffs, spider webs, sorcerous bindings",
-        "Description": "This ability allows the mage to restrain their target with some sort of binding material, such as energy, ropes, vines, or webbing. Ensnaring a victim is a Fighting roll against an adjacent foe. If the attack is successful, the victim is bound and suffers a –2 penalty to Pace and skills linked to Agility and Strength until freed. With a raise, the binding fully restrains the target, who cannot make any physical action except to try and break free. In either case, the target may make a Strength or Agility roll at –2 to escape. A raise allows the victim to break free and act in the same round.",
+        "Description": "This ability allows the mage to restrain their target with some sort of binding material, such as energy, ropes, vines, or webbing. Ensnaring a victim is a Fighting roll against an adjacent foe. If the attack is successful, the victim is bound and suffers a –2 penalty to skills linked to Agility and Strength until freed. With a raise, the binding fully restrains the target, who cannot make any physical action except to try and break free. In either case, the target may make a Strength or Agility roll at –2 to escape. A raise allows the victim to break free and act in the same round.",
         "Modifers": [
             {
                 "Name": "Area Effect",
@@ -442,7 +435,7 @@
         "Cost": "3/Level",
         "Brief": "An additional action per round per level. Fast Action (+2).",
         "Examples": "mage speed, adrenaline surge, mage-analytical mind, temporal control",
-        "Description": "This ability allows a mage to take one additional action per round with no multiaction penalty. They could take two actions at no penalty, for example, or three actions at –2 to each. It does not affect movement—see the speed ability for that. Extra actions may be taken multiple times, though the Game Master has final say on how it can be used. If the action relies on a device, for example, it may not be able to work as fast as the mage (though the mage might use multiple devices, of course). For weapons with a Rate of Fire, most can only be doubled in a single round regardless of the user's abilities. Melee weapons and most abilities can be used every action.",
+        "Description": "This ability allows a mage to take one additional action per round with no multiaction penalty. They could take two actions at no penalty, for example, or three actions at –2 to each. It does not affect movement speed. Extra actions may be taken multiple times, though the Game Master has final say on how it can be used. If the action relies on a device, for example, it may not be able to work as fast as the mage (though the mage might use multiple devices, of course). For weapons with a Rate of Fire, most can only be doubled in a single round regardless of the user's abilities. Melee weapons and most abilities can be used every action.",
         "Modifers": [
             {
                 "Name": "Fast Action",
@@ -561,7 +554,7 @@
             {
                 "Name": "Long Stride",
                 "Cost": "+2",
-                "Description": "When the character is Large, her Pace is doubled. When Huge, her Pace is doubled again (4x Pace total). The Running die is unaffected and this Modifier doesn't stack with the speed ability; use the higher Pace. "
+                "Description": "When the character is Large, their Speed is doubled. When Huge, her Speed is doubled again (4x Speed total)."
             },
             {
                 "Name": "Monster",
@@ -683,7 +676,7 @@
             {
                 "Name": "Phase",
                 "Cost": "+5",
-                "Description": "The character can phase in long enough to take a single action (such as an attack) and immediately phase back out again. This requires a single Spirit roll to successfully phase in and phase back out (or vice-versa). An opponent can hit the character while solid by being on Hold and interrupting their action. "
+                "Description": "The character can phase in long enough to take a single action (such as an attack) and immediately phase back out again. This requires a single Spirit roll to successfully phase in and phase back out (or vice-versa)."
             },
             {
                 "Name": "Permanent",
@@ -897,7 +890,7 @@
         "Cost": "3",
         "Brief": "Renders foes immobile. Strong (+1).",
         "Examples": "Poison touch, fetid breath, tendrils",
-        "Description": " A successful Touch Attack causes the victim to make a Vigor roll if the ability's trapping is physical, Smarts if it's mental, or Spirit if it's a matter of will (the Game M a s t e r and player should decide this when the ability is first taken, based on its Trapping). If the victim fails the roll, they's Incapacitated. On their following turns, the paralyzed victim makes a Vigor (or Smarts or Spirit) roll to revive. With a raise, they revives and may act normally. With a success, they revives but is Shaken and at half Pace until un-Shaken.",
+        "Description": " A successful Touch Attack causes the victim to make a Vigor roll if the ability's trapping is physical, Smarts if it's mental, or Spirit if it's a matter of will (the Game M a s t e r and player should decide this when the ability is first taken, based on its Trapping). If the victim fails the roll, they's Incapacitated. On their following turns, the paralyzed victim makes a Vigor (or Smarts or Spirit) roll to revive. With a raise, they revives and may act normally. With a success, they revives but is Shaken and at half Speed until un-Shaken.",
         "Modifers": [
             {
                 "Name": "Strong",
@@ -916,7 +909,7 @@
             {
                 "Name": "Deflect",
                 "Cost": "+4",
-                "Description": "If the mage is armed with a weapon, shield, or other solid item and is hit with a ranged attack, they can sacrifice their next action (or come off Hold) to deflect the attack using their parry ability. This requires an Agility roll for thrown weapons or –2 versus firearms, energy weapons, or abilities, and –4 versus bursts, double-taps, or three-round bursts. Area effect attacks may not be deflected. If the roll is successful, the attack is harmlessly redirected and misses. With a raise, it hits any available target of the character's choosing within 12”. Roll the attack's base damage, ignoring any raises on the original roll. "
+                "Description": "If the mage is armed with a weapon, shield, or other solid item and is hit with a ranged attack, they can sacrifice their next action to deflect the attack using their parry ability. This requires an Agility roll for thrown weapons or –2 versus firearms, energy weapons, or abilities, and –4 versus bursts, double-taps, or three-round bursts. Area effect attacks may not be deflected. If the roll is successful, the attack is harmlessly redirected and misses. With a raise, it hits any available target of the character's choosing within 12”. Roll the attack's base damage, ignoring any raises on the original roll. "
             },
             {
                 "Name": "Protector",
@@ -1045,7 +1038,7 @@
         "Cost": "Variable",
         "Brief": "The character can move at mage speed. Blinding Reflexes (+2), Catch and Throw (+2), Pummel (+1), Surface Tension (+1), Vibrate (+5), Whirlwind (+2).",
         "Examples": "A blur of motion, powerful legs",
-        "Description": "Your character can run at incredible speeds based on the number of points put into it, as shown below. The number listed under Penalty is the modifier foes suffer when trying to attack the speedster, assuming they's actually in motion . Speed doesn't stack with penalties from other abilities (use only the highest if a character has more than one ability-based attack penalty). Surprise attacks against the character when they's at rest suffer no such penalties. In combat, assume the speedster is always in motion unless they's bound, entangled, or the player specifically says they's stopped moving. SPEED TABLE Points Speed Attack Penalty 2 2 × Pace 0 5 4 x Pace –1 7 Pace 48 (120 mph) –2 10 Pace 96 (240 mph) –4 12 Sonic Speed (Mach 1) –6 15 mage Sonic Speed (Mach 2+) –8 18 Near Light Speed –10",
+        "Description": "Your character can run at incredible speeds based on the number of points put into it, as shown below. The number listed under Penalty is the modifier foes suffer when trying to attack the speedster, assuming they're actually in motion. Speed doesn't stack with penalties from other abilities (use only the highest if a character has more than one ability-based attack penalty). Assume the speedster is always in motion unless they're bound, entangled, or it's specifically stated that they've stopped moving. SPEED TABLE Points Speed Attack Penalty 2 2 × Pace 0 5 4 x Pace –1 7 Pace 48 (120 mph) –2 10 Pace 96 (240 mph) –4 12 Sonic Speed (Mach 1) –6 15 mage Sonic Speed (Mach 2+) –8 18 Near Light Speed –10",
         "Modifers": [
             {
                 "Name": "Blinding Reflexes",
@@ -1070,7 +1063,7 @@
             {
                 "Name": "Vibrate",
                 "Cost": "+5",
-                "Description": "The speedster can vibrate their molecules so fast they can actually pass through solid objects. This is particularly difficult, so the mage can only move up to 6” (12 yards) per round regardless of their Pace, and automatically gains a level of Fatigue each round it's maintained. The character may never stop inside an object, and must have Near Light Speed to take this Modifier. "
+                "Description": "The speedster can vibrate their molecules so fast they can actually pass through solid objects. This is particularly difficult, so the mage can only move up to 12m per round regardless of their Speed, and automatically gains a level of Fatigue each round it's maintained. The character may never stop inside an object, and must have Near Light Speed to take this Modifier. "
             },
             {
                 "Name": "Whirlwind",
@@ -1160,14 +1153,7 @@
         "Cost": "2",
         "Brief": "Allows movement via swinging. Strong Line (+1).",
         "Examples": "Web-lines, cable guns",
-        "Description": "Characters with any kind of cord, rope, webbing, or other grappling lines can move through certain types of settings—such as the tall buildings of large cities or jungle trees— with ease. The mage can travel through such environments at a Pace of 12. In a tactical setting (on a battle map), they can move to any point within 12” that it is feasible to swing to. The line can hold up to 500 pounds safely. Swingers who fall can make a single Agility roll to catch themselves at the midpoint of their descent. Swingers may also make a single Agility roll to grab someone else who is falling with their line. The roll suffers no penalties if the character was on Hold. If not on Hold and the character hasn't acted yet, they may discard their action card to attempt to grab a single falling victim. This is an Agility roll at –4. Lines used in this way can usually snag a falling victim up to 24” (twice their usual distance). In either case (stopping their own fallor someone else's), the swinger can land within their usual tactical distance.",
-        "Modifers": [
-            {
-                "Name": "Strong Line",
-                "Cost": "+1/1000 lb",
-                "Description": "The line can safely hold 1000 more pounds for each point in this Modifier. "
-            }
-        ]
+        "Description": "Characters with any kind of cord, rope, webbing, or other grappling lines can move through certain types of settings—such as the tall buildings of large cities or jungle trees— with ease. The mage can travel through such environments at a Speed of 12m per post or 2m/s. Swingers who fall can make a single Agility roll to catch themselves at the midpoint of their descent. Swingers may also make a single Agility roll to grab someone else who is falling with their line. If the character hasn't acted yet, they may discard their action card to attempt to grab a single falling victim. This is an Agility roll at –4. Lines used in this way can usually snag a falling victim up to 24m (twice their usual distance). In either case (stopping their own fallor someone else's), the swinger can land within their usual tactical distance."
     },
     {
         "Power": "Telekinesis",
@@ -1288,7 +1274,7 @@
         "Cost": "1",
         "Brief": "The mage can walk on horizontal or inverted surfaces.",
         "Examples": "Adhesive pores, mage-grip, extra limbs",
-        "Description": "Characters possessing this ability can walk on horizontal surfaces or even upside down at their normal Pace (and may run). As long as the surface can support it, wall walking characters may carry their normal load limit with them as they go."
+        "Description": "Characters possessing this ability can walk on horizontal surfaces or even upside down at their normal Speed (and may run). As long as the surface can support it, wall walking characters may carry their normal load limit with them as they go."
     },
     {
         "Power": "Whirlwind",
