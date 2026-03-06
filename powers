@@ -27,7 +27,7 @@
         "Power": "Altered Form",
         "Cost": "3",
         "Brief": "The character's body can change into a different substance",
-        "Description": "The mage has a morphable body of a particular Element. This is their normal, full-time state—take Requires Activation if they're normally human and must shift into their altered form. The mage can stretch or contort their body into basic shapes, raising or lowering their effective Size by 3. This isn't actual mass, however, so they doesn't gain or lose Toughness. Altered mages have no vital organs (or they're very resistant, protected, or hidden). <br><br> Called shots have no effect on them. They also take only half damage from falling or collisions.",
+        "Description": "The mage has a morphable body of a particular Element. This is their normal, full-time state—take Requires Activation if they're normally human and must shift into their altered form. The mage can stretch or contort their body into basic shapes, raising or lowering their effective Size by 3. This isn't actual mass, however, so they doesn't gain or lose Toughness. Altered mages have no vital organs (or they're very resistant, protected, or hidden). <br><br> They also take only half damage from falling or collisions.",
         "Examples": "Juvia's Water Body, Rogue's Shadow Form",
         "Modifers": [
             {
