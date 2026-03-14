@@ -22,9 +22,7 @@
     {
         "Name": "Requires Activation",
         "Cost": "-1",
-        "Description": "Passive abilities such as armor or absorption are considered a character's natural state and are always on. With this Modifier, the character must first activate the ability as a free action. If taken by surprise, for example, the ability isn't active and has no effect.<br><br>This reduces the cost of the ability by 1. Requires Activation has no effect on active abilities, such as flight or attacks, since those require actions to perform already",
-        "Cost": "whether a roll is required or not",
-        "Description": ".<br><br>Once activated, the ability remains in effect until the character decides to drop it. The ability also deactivates if the character is Incapacitated, knocked unconscious, or otherwise cannot consciously maintain it."
+        "Description": "Passive abilities such as armor or absorption are considered a character's natural state and are always on. With this Modifier, the character must first activate the ability as a free action. If taken by surprise, for example, the ability isn't active and has no effect.<br><br>This reduces the cost of the ability by 1.<br><br>Requires Activation has no effect on active abilities, such as flight or attacks, since those require actions to perform already (whether a roll is required or not).<br><br>Once activated, the ability remains in effect until the character decides to drop it. The ability also deactivates if the character is Incapacitated, knocked unconscious, or otherwise cannot consciously maintain it."
     },
     {
         "Name": "Slow to Activate",
