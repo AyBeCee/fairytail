@@ -323,7 +323,7 @@
         "Cost": "2",
         "Brief": "The mage has no need to breathe.",
         "Examples": "Alien life forms, elementals, immortals",
-        "Description": "The mage doesn't breathe. They aren'taffected by inhaled toxins, can't drown, and doesn't suffocate in vacuum."
+        "Description": "The mage doesn't breathe. They aren't affected by inhaled toxins, can't drown, and doesn't suffocate in vacuum."
     },
     {
         "Power": "Duplication",
