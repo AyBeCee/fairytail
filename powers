@@ -597,7 +597,7 @@
         "Cost": "1/Level",
         "Brief": "Improved sense or perception",
         "Examples": "Animal senses, mutation",
-        "Description": "The character has extremely powerful senses. Choose one of the enhanced senses below for each level in the ability. All instances of heightened senses stack with the Alertness Edge, but not with each other. <br><br><b>Eagle Eyes</b> The character can see details twice as far as most members of their species. Range penalties are halved (–1 for Medium –2 for Long, –4 for Extreme range).  <br><br><b>Infravision</b> The character can see heat sources. they halves darkness penalties against targets with heat signatures (or lack thereof in normal environments). If they also has Low Light Vision, they ignores all illumination penalties. <br><br><b>Low Light Vision</b> The character can see in Dim and Dark conditions, but not in total darkness. If they also has Infravision, they ignores all illumination penalties. <br><br><b>Perception</b> The mage has a highly developed sense of detection. they adds +2 to Notice and Investigation rolls made to find clues or notice details. <br><br><b>mage Sense</b> +2 to Notice with one sense (can be taken once for each sense). <br><br><b>Tracking</b> Your mage has a keen sense of smell, giving them a +2 to Tracking rolls.",
+        "Description": "The character has extremely powerful senses. Choose one of the enhanced senses below for each level in the ability. Instances of heightened senses cannot stack. <br><br><b>Eagle Eyes</b> The character can see details twice as far as most members of their species. Range penalties are halved (–1 for Medium –2 for Long, –4 for Extreme range).  <br><br><b>Infravision</b> The character can see heat sources. they halves darkness penalties against targets with heat signatures (or lack thereof in normal environments). If they also has Low Light Vision, they ignores all illumination penalties. <br><br><b>Low Light Vision</b> The character can see in Dim and Dark conditions, but not in total darkness. If they also has Infravision, they ignores all illumination penalties. <br><br><b>Perception</b> The mage has a highly developed sense of detection. they adds +2 to Notice and Investigation rolls made to find clues or notice details. <br><br><b>mage Sense</b> +2 to Notice with one sense (can be taken once for each sense). <br><br><b>Tracking</b> Your mage has a keen sense of smell, giving them a +2 to Tracking rolls.",
         "Modifers": [
             {
                 "Name": "Spatial Sense",
@@ -714,12 +714,12 @@
         "Cost": "2/Level",
         "Brief": "Mimic other abilities by invention",
         "Examples": "mage genius, advanced education",
-        "Description": "This impressive ability allows an inventor to create one-off devices that duplicate any other ability in this book. A character must have a minimum Smarts of d10, a Knowledge (Engineering) of d10, and a Repair skill of d10 to take this ability. <br><br> The inventor can create a device that mimics any ability in this book. they cannot use the Limitation Modifier for it being a device—that's already assumed—but they can use other Limitations as usual. The cost of the ability duplicated can never be greater than the creator's level of invent. The inventor can make several devices as long as they has the Power Points in invent to pay for them. A mage with invent at level 10 could have two 4-point devices and a third 2-point device, for example. The device invented requires 10 minutes times its original cost to assemble. The devices created are permanent, but can be disassembled for “parts” to make a new device (thereby freeing up the Power Points to invent something new). Devices may be given to other mages, but Trait rolls made to use them are made at –2 as only the inventor truly understands their jury-rigged creations.",
+        "Description": "This impressive ability allows an inventor to create one-off devices that duplicate any other ability. A character must have a minimum Smarts of d10 to take this ability. <br><br> The inventor can create a device that mimics any ability in this book. The cost of the ability duplicated can never be greater than the creator's level of invent. The inventor can make several devices as long as they have the Ability Points in invent to pay for them. A mage with invent at level 10 could have two 4-point devices and a third 2-point device, for example. The device invented requires 10 minutes times its original cost to assemble. The devices created are permanent, but can be disassembled for “parts” to make a new device (thereby freeing up the Ability Points to invent something new). Devices may be given to other mages, but Trait rolls made to use them are made at –2 as only the inventor truly understands their jury-rigged creations.",
         "Modifers": [
             {
                 "Name": "On The Fly",
                 "Cost": "+3",
-                "Description": "This Modifier allows the inventor the chance to change her abilities quickly. As an action, the character can make a Repair roll to attempt to switch her levels from one ability (or abilities) to a single other ability. She suffers a –1 penalty to the roll for every level devoted to the new ability. If she fails, she not only fails to get the new ability but loses the abilities being changed as well. If the inventor rolls a 1 on her Repair die (regardless of the Wild Die), she is Shaken from a glitch or feedback from the device."
+                "Description": "This Modifier allows the inventor the chance to change their abilities quickly. As an action, they can make a Smarts roll to attempt to switch her levels from one ability (or abilities) to a single other ability. They suffer a –1 penalty to the roll for every level devoted to the new ability. If they fail, they not only fail to get the new ability but lose the abilities being changed as well. If the inventor rolls a 1 on their Smarts die, they are Shaken from a malfunction or feedback from the device."
             }
         ]
     },
@@ -727,8 +727,8 @@
         "Power": "Invisibility",
         "Cost": "4/Level",
         "Brief": "The mage is invisible",
-        "Examples": "Cell alteration, stealth suit",
-        "Description": "The character and all their gear become cloaked and difficult to see. Invisible beings leave some tell-tale trace of their presence, whether it's a shimmer, a smell, footsteps, etc., so foes get a Notice roll at –2 per level to detect them if given some reason to do so, or if the invisible character closes within 5” (10 yards). If the invisible character does something obvious like attack or stand in the rain, the penalty to attack is halved and no Notice roll is necessary to detect their presence. Attacks made against invisible mages suffer a –2 penalty per level, to a maximum of –6 (use only the highest penalty if a character has more than one ability-based attack penalty).",
+        "Examples": "Macbeth's invisiblity spell",
+        "Description": "The character and all their held items become cloaked and difficult to see. Invisible beings leave some tell-tale trace of their presence, whether it's a shimmer, a smell, footsteps, etc., so foes get a Notice roll at –2 per level to detect them if given some reason to do so, or if the invisible character closes within 5m. If the invisible character does something obvious like attack or stand in the rain, the penalty to attack is halved and no Notice roll is necessary to detect their presence. Attacks made against invisible mages suffer a –2 penalty per level, to a maximum of –6 (use only the highest penalty if a character has more than one ability-based attack penalty).",
         "Modifers": [
             {
                 "Name": "Permanent",
@@ -738,12 +738,12 @@
             {
                 "Name": "Personal",
                 "Cost": "–2",
-                "Description": "The supers' invisibility doesn't cover gear. they must be au natural to gain the full effect. Carrying any object counts as an obvious action for purposes of being noticed."
+                "Description": "The mage's invisibility doesn't cover clothing. They must be au natural to gain the full effect. Carrying any object counts as an obvious action for purposes of being noticed."
             },
             {
                 "Name": "Projection",
                 "Cost": "+4/+6",
-                "Description": "The mage can project her invisibility field. For +4 points, she can share her ability with one adjacent person as an action each round. For +6 points, she can share with one adjacent person as a free action each round, or up to six other adjacent allies as a normal action each round. This Modifier cannot be taken with Personal."
+                "Description": "The mage can project their invisibility field. For +4 points, they can share their ability with one adjacent person as an action each round. For +6 points, they can share with one adjacent person as a free action each round, or up to six other adjacent allies as a normal action each round. This Modifier cannot be taken with Personal."
             }
         ]
     },
@@ -752,7 +752,7 @@
         "Cost": "2",
         "Brief": "Opponents suffer misfortune",
         "Examples": "Evil eye, curse, black cat",
-        "Description": "Enemies constantly suffer minor slips, misfires, and other mishaps when your mage's in action. Any foe making a direct action against your character—whether an attack, Test of Wills, or other action—suffers a mishap if their skill die is a natural 1, regardless of Wild Die. When this occurs, the foe's weapon malfunctions, they slips and falls, a mage villain's ability fails, and so on. The exact effect is up to the Game Master, but should usually cause the foe to miss their turn at the very least.",
+        "Description": "Enemies constantly suffer minor slips, misfires, and other mishaps when your character is in action. Any foe making a direct action against your character — whether an attack, Test of Wills, or other action — suffers a mishap if their skill die is a natural 1. When this occurs, the foe's weapon malfunctions, they slips and falls, a mage villain's ability fails, and so on. The exact effect is up to the Game Master, but should usually cause the foe to miss their turn at the very least.",
         "Modifers": [
             {
                 "Name": "Improved Jinx",
@@ -771,7 +771,7 @@
             {
                 "Name": "Bounce",
                 "Cost": "+1",
-                "Description": "The character has learned to bounce off vertical surfaces to climb higher than they might otherwise. they may scale any height as long as they has an opposing wall within half their horizontal distance to bounce off of."
+                "Description": "The character has learned to bounce off vertical surfaces to climb higher than they might otherwise. They may scale any height as long as they has an opposing wall within half their horizontal distance to bounce off of."
             },
             {
                 "Name": "Death From Above",
@@ -1121,7 +1121,7 @@
         ]
     },
     {
-        "Power": "mage Attribute",
+        "Power": "Mage Attribute",
         "Cost": "2/Step",
         "Brief": "Increase an attribute a die type (+1 after d12)",
         "Examples": "",
@@ -1135,18 +1135,11 @@
         ]
     },
     {
-        "Power": "mage Edge",
-        "Cost": "2/Level",
-        "Brief": "Grants a Combat Edge.",
-        "Examples": "",
-        "Description": "Extraordinary training or background, extension of mage abilities. Each level of this ability grants the character any one Combat Edge allowed in the setting—regardless of its requirements (except other required Edges—a character still has to have Frenzy before taking Improved Frenzy, for example). Note this ability cannot grant other types of Edges (Background, Social, Legendary, etc.)."
-    },
-    {
-        "Power": "mage Skill",
+        "Power": "Mage Skill",
         "Cost": "1/Step",
         "Brief": "Increase a skill a die type (+1 after d12).",
         "Examples": "",
-        "Description": "Natural genius, software programs, intensive training. mage skill buys or increases a skill (and its maximum) by 1 step per point. This reflects extreme training, talent, or supernatural enhancement of some sort. mage skill counts as a single ability regardless of the number of skills affected."
+        "Description": "Natural genius, software programs, intensive training. Mage skill buys or increases a skill (and its maximum) by 1 step per point. This reflects extreme training, talent, or supernatural enhancement of some sort. Mage skill counts as a single ability regardless of the number of skills affected."
     },
     {
         "Power": "Swinging",
