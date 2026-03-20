@@ -93,12 +93,12 @@
             {
                 "Name": "Hardy",
                 "Cost": "+3",
-                "Description": "The character is so tough only the most serious damage can harm them. If they are Shaken, additional Shaken results have no effect. "
+                "Description": "The character is so tough only the most serious damage can harm them. If they are Shaken, additional Shaken results have no effect."
             },
             {
                 "Name": "Partial Protection",
                 "Cost": "–1/–2",
-                "Description": "Gaps in protection allow the armor to be bypassed. For –1 point it requires a Called Shot at –6; for –2 points the armor only covers the torso and Called Shots bypass it at –2. Area effect attacks bypass the armor as usual. "
+                "Description": "Gaps in protection allow the armor to be bypassed. For –1 point it requires a Called Shot at –6; for –2 points the armor only covers the torso and Called Shots bypass it at –2. Area effect attacks bypass the armor as usual."
             }
         ]
     },
@@ -112,22 +112,22 @@
             {
                 "Name": "Armor Piercing",
                 "Cost": "+1",
-                "Description": "Every point put into this Modifier gives the attack an AP value of 2, allowing it to bypass that many points of armor. "
+                "Description": "Every point put into this Modifier gives the attack an AP value of 2, allowing it to bypass that many points of armor."
             },
             {
                 "Name": "Heavy Weapon",
                 "Cost": "+1",
-                "Description": "The attack counts as a Heavy Weapon. "
+                "Description": "The attack counts as a Heavy Weapon."
             },
             {
                 "Name": "Multiple Attacks",
                 "Cost": "+2",
-                "Description": "The ability's damage may be applied to all Fighting rolls made in a round. "
+                "Description": "The ability's damage may be applied to all Fighting rolls made in a round."
             },
             {
                 "Name": "One Arm",
                 "Cost": "–1",
-                "Description": "The character's melee attack can only be performed with one arm (or limb). It can be used with Frenzy or Sweep, but not off-hand attacks or multiple attacks granted by other abilities. "
+                "Description": "The character's melee attack can only be performed with one arm (or limb). It can be used with Frenzy or Sweep, but not off-hand attacks or multiple attacks granted by other abilities."
             }
         ]
     },
@@ -135,43 +135,43 @@
         "Power": "Attack, Ranged",
         "Cost": "2/Level",
         "Brief": "Distance attack",
-        "Examples": "Bolts, blasts, fire, water, high tech guns. ",
+        "Examples": "Bolts, blasts, fire, water, high tech guns.",
         "Description": "The mage has an attack with a Range of 12/24/48. Damage is 2d6 at the first level, and increases by 1d6 per level to a maximum of 6d6.",
         "Modifers": [
             {
                 "Name": "Area Effect",
                 "Cost": "+2/+4",
-                "Description": "For 2 points, the attack affects an area the size of a Medium Burst Template. For 4 points the mage may use either a Medium or a Large Burst Template. "
+                "Description": "For 2 points, the attack affects an area the size of a Medium Burst Template. For 4 points the mage may use either a Medium or a Large Burst Template."
             },
             {
                 "Name": "Armor Piercing",
                 "Cost": "+1",
-                "Description": "Every point put into this Modifier gives the attack an AP value of 2, allowing it to bypass that many points of armor. "
+                "Description": "Every point put into this Modifier gives the attack an AP value of 2, allowing it to bypass that many points of armor."
             },
             {
                 "Name": "Cone",
                 "Cost": "+0/+1",
-                "Description": "For no points, the attack must use the Cone Template (extending out from the mage). Targets may avoid the attack with an opposed Agility versus Shooting test. For 1 point, the attack can switch between the Cone Template and other uses as usual. "
+                "Description": "For no points, the attack must use the Cone Template (extending out from the mage). Targets may avoid the attack with an opposed Agility versus Shooting test. For 1 point, the attack can switch between the Cone Template and other uses as usual."
             },
             {
                 "Name": "Enhanced Damage",
                 "Cost": "+4",
-                "Description": "For +4 points, the attack uses d10s for damage. "
+                "Description": "For +4 points, the attack uses d10s for damage."
             },
             {
                 "Name": "Range",
                 "Cost": "+2/+4",
-                "Description": "The Range increases to 24/48/96, or 50/100/200 for 4 points. "
+                "Description": "The Range increases to 24/48/96, or 50/100/200 for 4 points."
             },
             {
                 "Name": "Rate of Fire",
                 "Cost": "+3/Extra Shot",
-                "Description": "The mage can fire an extra missile each action, up to a maximum Rate of Fire of 5. There is no penalty for these extra attacks. "
+                "Description": "The mage can fire an extra missile each action, up to a maximum Rate of Fire of 5. There is no penalty for these extra attacks."
             },
             {
                 "Name": "Requires Material",
                 "Cost": "–1/–2",
-                "Description": "The character attacks by hurling, throwing, or manipulating matter of some sort. If the material isn't within Short range, they cannot use this ability. For –2 points, the mage must be in contact with appropriate matter to make their attack. "
+                "Description": "The character attacks by hurling, throwing, or manipulating matter of some sort. If the material isn't within Short range, they cannot use this ability. For –2 points, the mage must be in contact with appropriate matter to make their attack."
             }
         ]
     },
@@ -185,33 +185,33 @@
     {
         "Power": "Burrowing",
         "Cost": "2",
-        "Brief": "Tunnel at half Speed ",
+        "Brief": "Tunnel at half Speed",
         "Examples": "Earth control, transform to sand",
         "Description": "Burrowing characters can tunnel through earth at half Speed (and may “run” as well). A burrowing character may tunnel on their action and erupt from the ground at any point within their burrowing Speed the same round if desired. Earth typically acts as Heavy Armor, Toughness 10, and if the burrower remains near enough to attack, requires a Notice roll at –6 to detect. Burrowers strike by erupting from beneath their opponents and taking them by surprise. When this occurs, the burrowing character makes an opposed Stealth roll versus the target's Notice. If the burrower wins, they gain +2 to attack and damage that round, +4 if they gain a raise. Solid rock, metal, and other hard substances stop the tunneler cold.",
         "Modifers": [
             {
                 "Name": "Speed",
                 "Cost": "+1",
-                "Description": "The digger can tunnel through rock, metal, and other hard substances at their full Speed. "
+                "Description": "The digger can tunnel through rock, metal, and other hard substances at their full Speed."
             }
         ]
     },
     {
         "Power": "Chameleon",
         "Cost": "3",
-        "Brief": "Imitate another being ",
+        "Brief": "Imitate another being",
         "Examples": "Take Over, Illusion magic",
         "Description": "This ability allows the character to assume the appearance of another being or animal. The character cannot emulate someone more than two Size levels different from themself. Someone familiar with the original target gets a Notice roll at –2 to detect that something is off (but even then only after short range interaction). Clever roleplaying and intimate questions might also see through the disguise as well. Characters do not gain any of the target's abilities or Traits—only their appearance. A character with the Copycat ability can be very convincing!",
         "Modifers": [
             {
                 "Name": "Inanimate Object",
                 "Cost": "+3",
-                "Description": "The character can assume the shape of inanimate objects. The form assumed cannot vary from the character's size by more than 50%. "
+                "Description": "The character can assume the shape of inanimate objects. The form assumed cannot vary from the character's size by more than 50%."
             },
             {
                 "Name": "Voice",
                 "Cost": "+2",
-                "Description": "The character can emulate voices as well. The mimicry is perfect enough to fool voice identification devices. Combined with an assumed form, this Modifier increases the Notice roll allowed to detect the chameleon to –4. "
+                "Description": "The character can emulate voices as well. The mimicry is perfect enough to fool voice identification devices. Combined with an assumed form, this Modifier increases the Notice roll allowed to detect the chameleon to –4."
             }
         ]
     },
@@ -232,89 +232,89 @@
             {
                 "Name": "Range",
                 "Cost": "+2",
-                "Description": "The mimic can copy abilities from anyone they see in action (at least 1 round)— but must make a Smarts roll at –4 as an action to do so. (Roll once for all abilities with the Versatility Modifier.) "
+                "Description": "The mimic can copy abilities from anyone they see in action (at least 1 round)— but must make a Smarts roll at –4 as an action to do so. (Roll once for all abilities with the Versatility Modifier.)"
             },
             {
                 "Name": "Uncontrolled",
                 "Cost": "–2",
-                "Description": "The character automatically mimics the abilities of any person they touch (or who touches them), and contact with a character with no abilities removes all copied abilities. "
+                "Description": "The character automatically mimics the abilities of any person they touch (or who touches them), and contact with a character with no abilities removes all copied abilities."
             },
             {
                 "Name": "Versatility",
                 "Cost": "+1/+2",
-                "Description": "For +1 point, the character may copy multiple abilities of a single target as long as the total cost is not greater than their level in this ability. For 2 points, the character can copy multiple abilities of different targets, choosing which abilities they want to keep and which to drop (as long as the total points don't exceed their level in copycat). "
+                "Description": "For +1 point, the character may copy multiple abilities of a single target as long as the total cost is not greater than their level in this ability. For 2 points, the character can copy multiple abilities of different targets, choosing which abilities they want to keep and which to drop (as long as the total points don't exceed their level in copycat)."
             }
         ]
     },
     {
         "Power": "Damage Field",
         "Cost": "3/Level",
-        "Brief": "A damaging aura, by Element ",
+        "Brief": "A damaging aura, by Element",
         "Examples": "Fiery aura, radiation, cold, spikes",
         "Description": "This ability creates a dangerous aura or field of an Element around the character. The damage field must be activated (a free action). Once on, it remains that way until the character decides to shut it down or is Incapacitated. At the end of every rouond, every adjacent character suffers 2d6 damage, plus a d6 per level in the ability (to a maximum of 6d6).",
         "Modifers": [
             {
                 "Name": "Armor Piercing",
                 "Cost": "+1",
-                "Description": "Every point put into this Modifier gives the attack an AP value of 2. "
+                "Description": "Every point put into this Modifier gives the attack an AP value of 2."
             },
             {
                 "Name": "Heavy Weapon",
                 "Cost": "+1",
-                "Description": "The damage counts as a Heavy Weapon. "
+                "Description": "The damage counts as a Heavy Weapon."
             },
             {
                 "Name": "Medium Template",
                 "Cost": "+3",
-                "Description": "Everyone within a Medium Burst Template centered on the character suffers the damage. "
+                "Description": "Everyone within a Medium Burst Template centered on the character suffers the damage."
             },
             {
                 "Name": "Permanent",
                 "Cost": "–2",
-                "Description": "The character can't turn their damage field, even if they want to! "
+                "Description": "The character can't turn their damage field, even if they want to!"
             },
             {
                 "Name": "Selective",
                 "Cost": "+2",
-                "Description": "The character can control who is affected by their ability. "
+                "Description": "The character can control who is affected by their ability."
             }
         ]
     },
     {
         "Power": "Decay",
         "Cost": "4",
-        "Brief": "Destroy material or cause wounds ",
+        "Brief": "Destroy material or cause wounds",
         "Examples": "Rust, corrosion, rot, acid",
         "Description": "This truly terrible ability destroys matter. Each full round spent in contact with a substance destroys 10 pounds of matter. Harming living beings requires a Touch Attack. If successful, victims must make a Vigor roll or suffer a wound. Extremely thick clothing (up to Armor +1) absorbs a wound the first time the character is hit (unless circumvented via a Called Shot), and Armor +2 or more absorbs two. After that, the clothing or armor is effectively ruined.",
         "Modifers": [
             {
                 "Name": "Midas Touch",
                 "Cost": "–2",
-                "Description": "The character can't turn off their ability. Everything they touch (except themself) with their bare hands begins to decay. "
+                "Description": "The character can't turn off their ability. Everything they touch (except themself) with their bare hands begins to decay."
             },
             {
                 "Name": "Rapid Decay",
                 "Cost": "+2",
-                "Description": "Each time this Modifier is chosen, the amount of matter destroyed in a round doubles. It has no additional effect on living beings. "
+                "Description": "Each time this Modifier is chosen, the amount of matter destroyed in a round doubles. It has no additional effect on living beings."
             },
             {
                 "Name": "Strong",
                 "Cost": "+1",
-                "Description": "Vigor rolls are made at –2. "
+                "Description": "Vigor rolls are made at –2."
             }
         ]
     },
     {
         "Power": "Deflection",
         "Cost": "1/Level",
-        "Brief": "–1 to be hit by ranged attacks per level ",
+        "Brief": "–1 to be hit by ranged attacks per level",
         "Examples": "Swirling winds, mystic shields, fast reactions, “sixth sense.”",
         "Description": "This handy ability deflects incoming attacks. Each level applies a –1 penalty to all ranged attack rolls made against the character. The maximum penalty is –10. <br><br> Deflection does not stack with penalties from other abilities (use only the highest if a character has more than one ability-based attack penalty).",
         "Modifers": [
             {
                 "Name": "Protector",
                 "Cost": "+1/+2",
-                "Description": "For 1 point, the character can apply their deflection ability to one person adjacent to them as a free action. they loses the benefit of the ability while they does so. For 2 points, the character can divide their levels of deflection between himself and all adjacent characters as a free action. "
+                "Description": "For 1 point, the character can apply their deflection ability to one person adjacent to them as a free action. they loses the benefit of the ability while they does so. For 2 points, the character can divide their levels of deflection between himself and all adjacent characters as a free action."
             }
         ]
     },
@@ -328,28 +328,28 @@
     {
         "Power": "Duplication",
         "Cost": "3/Level",
-        "Brief": "The character can copy themself ",
+        "Brief": "The character can copy themself",
         "Examples": "Dimensional twin, homunculus, illusions, future selves",
         "Description": "Characters possessing this ability can create copies of themselves as an action. Each level allows for an additional “clone.” The copies don't have the duplication ability, or any ability used to gain it such as copycat, invent, or mage sorcery. Duplicates are always slightly off. Perhaps they don't sweat, don't cast shadows, or have some other “defect.” Those who make a Notice roll at –2 can determine if a particular dupe is the real character or not. Note that foes don't instantly spot the original—they simply can tell whether or not a particular dupe is real or not. The duplicates may be dispelled at the mage's whim and automatically vanish if the “original” is Incapacitated.",
         "Modifers": [
             {
                 "Name": "No Tell",
                 "Cost": "+1",
-                "Description": "Duplicates look more like the original. Notice rolls are made at –4 to tell a duplicate from the original. "
+                "Description": "Duplicates look more like the original. Notice rolls are made at –4 to tell a duplicate from the original."
             }
         ]
     },
     {
         "Power": "Earthquake",
         "Cost": "2",
-        "Brief": "Creates an earthquake ",
-        "Examples": "Tremors, sonic vibrations, hitech “thumpers.” ",
+        "Brief": "Creates an earthquake",
+        "Examples": "Tremors, sonic vibrations, hitech “thumpers.”",
         "Description": "Earthquake allows a character to create a small rend in the earth that can stun and entrap foes. The crack is a shallow (two feet deep or so) crevice which races 12” from the mage in a straight line. Every target in the line of attack must make an Agility roll or be Shaken. Those who are Shaken are stuck in the crack and cannot move until they become unshaken.",
         "Modifers": [
             {
                 "Name": "Depth",
                 "Cost": "+3",
-                "Description": "The trench is much deeper— up to 5” (10 yards). Those who fall in suffer 3d6+3 damage. "
+                "Description": "The trench is much deeper— up to 5” (10 yards). Those who fall in suffer 3d6+3 damage."
             },
             {
                 "Name": "Earthshake",
@@ -368,65 +368,65 @@
             {
                 "Name": "Area Effect",
                 "Cost": "+2",
-                "Description": "The ability affects everything in a Large Burst Template instead of a Medium. "
+                "Description": "The ability affects everything in a Large Burst Template instead of a Medium."
             },
             {
                 "Name": "Master",
                 "Cost": "+5",
-                "Description": "The controller may affect all forms of Elements, but only one type at once. "
+                "Description": "The controller may affect all forms of Elements, but only one type at once."
             },
             {
                 "Name": "Range",
                 "Cost": "+2",
-                "Description": "The controller's range is extended to 24”. "
+                "Description": "The controller's range is extended to 24”."
             },
             {
                 "Name": "Selective",
                 "Cost": "+2",
-                "Description": "Without this Modifier, Element control affects everything within. With it, the controller decides who gains the protection, gets hit, etc. "
+                "Description": "Without this Modifier, Element control affects everything within. With it, the controller decides who gains the protection, gets hit, etc."
             }
         ]
     },
     {
         "Power": "Ensnare",
         "Cost": "3",
-        "Brief": "Entangle or entrap foes ",
+        "Brief": "Entangle or entrap foes",
         "Examples": "Glue bomb, vines, electrical net, handcuffs, spider webs, sorcerous bindings",
         "Description": "This ability allows the mage to restrain their target with some sort of binding material, such as energy, ropes, vines, or webbing. Ensnaring a victim is a Fighting roll against an adjacent foe. If the attack is successful, the victim is bound and suffers a –2 penalty to skills linked to Agility and Strength until freed. With a raise, the binding fully restrains the target, who cannot make any physical action except to try and break free. In either case, the target may make a Strength or Agility roll at –2 to escape. A raise allows the victim to break free and act in the same round.",
         "Modifers": [
             {
                 "Name": "Area Effect",
                 "Cost": "+2/+4",
-                "Description": "For 2 points, the snare affects everyone in a Medium Burst Template. For 4 points the mage may use either a Medium or a Large Burst Template. "
+                "Description": "For 2 points, the snare affects everyone in a Medium Burst Template. For 4 points the mage may use either a Medium or a Large Burst Template."
             },
             {
                 "Name": "Very Strong",
                 "Cost": "+2",
-                "Description": "The binding material is very tough. Those caught by it make their Strength or Agility rolls at –4 to escape. "
+                "Description": "The binding material is very tough. Those caught by it make their Strength or Agility rolls at –4 to escape."
             }
         ]
     },
     {
         "Power": "Explode",
         "Cost": "2/Level",
-        "Brief": "Detonates around the mage ",
+        "Brief": "Detonates around the mage",
         "Examples": "Bombs, radioactive form, gathering energy",
         "Description": "Your character has the unusual ability to explode! Their own body is either unaffected or reforms immediately afterwards. The mage must first “prime” himself by standing still and taking no other actions for one round. At the beginning of their next action, they explode for 2d8 damage, plus a d8 per level (to a maximum of 6d8) in a Medium Burst Template.",
         "Modifers": [
             {
                 "Name": "Fatigued",
                 "Cost": "–2",
-                "Description": "The character is Fatigued after exploding (lasts until the end of combat). "
+                "Description": "The character is Fatigued after exploding (lasts until the end of combat)."
             },
             {
                 "Name": "Heavy Weapon",
                 "Cost": "+1",
-                "Description": "The damage counts as a Heavy Weapon. "
+                "Description": "The damage counts as a Heavy Weapon."
             },
             {
                 "Name": "Large Template",
                 "Cost": "+1",
-                "Description": "Explode uses the Large Burst Template instead of the Medium Burst Template. "
+                "Description": "Explode uses the Large Burst Template instead of the Medium Burst Template."
             }
         ]
     },
@@ -440,21 +440,21 @@
             {
                 "Name": "Fast Action",
                 "Cost": "+2",
-                "Description": "The mage can perform longer duration feats more quickly. Any single action taking multiple rounds can be performed in a single action. Actions requiring minutes to perform are done in rounds, and actions requiring hours are done in a like number of minutes. This has no effect on normal or free actions, nor anything requiring interaction with others since they can't keep up (unless they have this Modifier as well). "
+                "Description": "The mage can perform longer duration feats more quickly. Any single action taking multiple rounds can be performed in a single action. Actions requiring minutes to perform are done in rounds, and actions requiring hours are done in a like number of minutes. This has no effect on normal or free actions, nor anything requiring interaction with others since they can't keep up (unless they have this Modifier as well)."
             }
         ]
     },
     {
         "Power": "Extra Limbs",
         "Cost": "3/Level",
-        "Brief": "Extra limbs, granting extra actions ",
+        "Brief": "Extra limbs, granting extra actions",
         "Examples": "Tentacles, tail, robotic arm, extra-dimensional manifestation",
         "Description": "Your character has an additional prehensile limb of some sort. they can take an additional physical action with it every round, and they does not suffer multi-action or off-hand penalties while using it. they may also assign extra limbs to take a sustained action, such as grappling someone. Each level in extra limbs grants an additional limb (and action).",
         "Modifers": [
             {
                 "Name": "Reach",
                 "Cost": "+1",
-                "Description": "The extra limbs have Reach +1 each time this is taken. "
+                "Description": "The extra limbs have Reach +1 each time this is taken."
             }
         ]
     },
@@ -468,12 +468,12 @@
             {
                 "Name": "Scary",
                 "Cost": "–2",
-                "Description": "The effect is permanent or inherent and subtracts 2 from the character's Charisma. "
+                "Description": "The effect is permanent or inherent and subtracts 2 from the character's Charisma."
             },
             {
                 "Name": "Terror",
                 "Cost": "+2",
-                "Description": "The Fear check is made at –2 if the character is particularly frightening in some way. "
+                "Description": "The Fear check is made at –2 if the character is particularly frightening in some way."
             }
         ]
     },
@@ -494,7 +494,7 @@
             {
                 "Name": "Climb",
                 "Cost": "+1/Level",
-                "Description": "Each level in this Modifier increases Climb by 2, to a maximum of +6. FLIGHT TABLE Points Speed Attack Penalty 2 Pace 0 4 2 x Pace 0 8 4 x Pace –1 10 Pace 48 (120 mph) –2 12 Pace 96 (240 mph) –4 15 Sonic Speed (Mach 1) –6 18 mage Sonic Speed (Mach 2+) –8 20 Near Light Speed –10 "
+                "Description": "Each level in this Modifier increases Climb by 2, to a maximum of +6. FLIGHT TABLE Points Speed Attack Penalty 2 Pace 0 4 2 x Pace 0 8 4 x Pace –1 10 Pace 48 (120 mph) –2 12 Pace 96 (240 mph) –4 15 Sonic Speed (Mach 1) –6 18 mage Sonic Speed (Mach 2+) –8 20 Near Light Speed –10"
             }
         ]
     },
@@ -508,22 +508,22 @@
             {
                 "Name": "Area Effect",
                 "Cost": "+2",
-                "Description": "The ability affects everything in a Medium Burst Template. If used to attack or Grapple, make one roll versus everyone within rather than as separate actions. Each of the targets resist that total separately. Area Effect does not apply to the Force Field Modifier (below). "
+                "Description": "The ability affects everything in a Medium Burst Template. If used to attack or Grapple, make one roll versus everyone within rather than as separate actions. Each of the targets resist that total separately. Area Effect does not apply to the Force Field Modifier (below)."
             },
             {
                 "Name": "Force Field",
                 "Cost": "+3",
-                "Description": "The controller creates a sheath or bubble of airtight protective energy. As long as they are within her range, she may protect a number of individuals up to her level, providing each with +1 Toughness per level in force control. abilities 29 This requires intense concentration, so the controller suffers –1 per force field created or maintained in a round to all other actions. If she is Shaken or wounded, she must make a Spirit roll or drop all fields (automatic if she's Incapacitated). "
+                "Description": "The controller creates a sheath or bubble of airtight protective energy. As long as they are within her range, she may protect a number of individuals up to her level, providing each with +1 Toughness per level in force control. abilities 29 This requires intense concentration, so the controller suffers –1 per force field created or maintained in a round to all other actions. If she is Shaken or wounded, she must make a Spirit roll or drop all fields (automatic if she's Incapacitated)."
             },
             {
                 "Name": "Heavy Weapon",
                 "Cost": "+1",
-                "Description": "If used to attack with its Strength, the force counts as a Heavy Weapon. "
+                "Description": "If used to attack with its Strength, the force counts as a Heavy Weapon."
             },
             {
                 "Name": "Range",
                 "Cost": "+2",
-                "Description": "The ability's reach is 24”. "
+                "Description": "The ability's reach is 24”."
             }
         ]
     },
@@ -544,12 +544,12 @@
             {
                 "Name": "Big Fists",
                 "Cost": "+1/+2",
-                "Description": "For +1 point, the character ignores the –2 attack penalty against smaller targets when Large and reduces the –4 penalty for Huge to –2. For 1 more point, she ignores the full –4 attack penalty when Huge. Smaller opponents still get the bonus to attack her. "
+                "Description": "For +1 point, the character ignores the –2 attack penalty against smaller targets when Large and reduces the –4 penalty for Huge to –2. For 1 more point, she ignores the full –4 attack penalty when Huge. Smaller opponents still get the bonus to attack her."
             },
             {
                 "Name": "Fast Growth",
                 "Cost": "(+2)",
-                "Description": "The character can grow or return to normal size as a free action. "
+                "Description": "The character can grow or return to normal size as a free action."
             },
             {
                 "Name": "Long Stride",
@@ -559,36 +559,36 @@
             {
                 "Name": "Monster",
                 "Cost": "–2",
-                "Description": "The user can't turn this ability off; they is always this Size. This gives them a –2 to Charisma, makes them much easier to spot or track, and makes it difficult to find gear the proper size. "
+                "Description": "The user can't turn this ability off; they is always this Size. This gives them a –2 to Charisma, makes them much easier to spot or track, and makes it difficult to find gear the proper size."
             }
         ]
     },
     {
         "Power": "Healing",
         "Cost": "5",
-        "Brief": "Heals wounds ",
+        "Brief": "Heals wounds",
         "Examples": "Mystical glow, miraculous touch, blessed, advanced technology",
         "Description": "Your character can heal herself and others of wounds and Fatigue with a touch. To do so, the healer decides to heal either wounds or Fatigue (these are two separate uses of the ability). Then she must contact the patient and make a Spirit roll as an action with a penalty equal to the victim's number of wounds if any—there is no penalty for Fatigue. Failure means the healer suffers a level of Fatigue that can only be recovered after an hour has passed. Success eliminates one level of Fatigue or wounds per success and raise. Extras can also be returned to action using the same process outlined above. The GM must check to see if an Extra has expired or not before the healer makes her roll (see Aftermath in Savage Worlds).",
         "Modifers": [
             {
                 "Name": "Cure",
                 "Cost": "+3",
-                "Description": "The character can negate any poison, disease, or sickness with a touch and a successful Spirit roll (applying any penalties for the disease/poison to the Spirit roll). Failing the roll causes a level of Fatigue to the healer that can cause death and is only recovered after 24 hours. "
+                "Description": "The character can negate any poison, disease, or sickness with a touch and a successful Spirit roll (applying any penalties for the disease/poison to the Spirit roll). Failing the roll causes a level of Fatigue to the healer that can cause death and is only recovered after 24 hours."
             },
             {
                 "Name": "Refresh",
                 "Cost": "+3/+5",
-                "Description": "This ability allows a healer to aid her allies in the heat of battle. To do so, she makes a Spirit roll as an action, filling a Medium Burst Template centered on her with healing energy. Anyone she chooses within the template automatically 30 abilities recovers from being Shaken. For 5 points, the healer uses a Large Burst Template. "
+                "Description": "This ability allows a healer to aid her allies in the heat of battle. To do so, she makes a Spirit roll as an action, filling a Medium Burst Template centered on her with healing energy. Anyone she chooses within the template automatically 30 abilities recovers from being Shaken. For 5 points, the healer uses a Large Burst Template."
             },
             {
                 "Name": "Restoration",
                 "Cost": "+2",
-                "Description": "The character can heal permanent crippling injuries. This requires a Healing roll at –4 (minus any current wounds of the target) and may only be attempted one time per injury by this character (a different healer could try again). "
+                "Description": "The character can heal permanent crippling injuries. This requires a Healing roll at –4 (minus any current wounds of the target) and may only be attempted one time per injury by this character (a different healer could try again)."
             },
             {
                 "Name": "Resurrection",
                 "Cost": "+8",
-                "Description": "The ultimate healing ability is the ability to raise a character from the dead. In the comics, everyone comes back from the dead unless the death was part of a mage's origin. This Modifier just shortens the wait. The deceased must have been dead no longer than 24 hours and the body must be reasonably intact. Resurrected characters return to life unwounded but Exhausted. It takes an hour to recover each level of Fatigue. "
+                "Description": "The ultimate healing ability is the ability to raise a character from the dead. In the comics, everyone comes back from the dead unless the death was part of a mage's origin. This Modifier just shortens the wait. The deceased must have been dead no longer than 24 hours and the body must be reasonably intact. Resurrected characters return to life unwounded but Exhausted. It takes an hour to recover each level of Fatigue."
             }
         ]
     },
@@ -602,26 +602,26 @@
             {
                 "Name": "Spatial Sense",
                 "Cost": "+2",
-                "Description": "Your mage has a special sense (smell, hearing, x-ray vision, bioelectrical sensors, etc) that allows them to perceive through solid objects and even other characters. As an action, they may make a Notice roll at –4 through up to six feet of almost any material (see below). If attacking a target through an object (see Obstacles in Savage Worlds), they suffers the same –4 penalty to their attack roll as well as the standard multiple action penalty. Finally, each version of this ability has some relatively common material (or situation) that blocks it, such as lead for x-ray vision, overpowering scents for an incredible sense of smell, or extreme noise for mage hearing. "
+                "Description": "Your mage has a special sense (smell, hearing, x-ray vision, bioelectrical sensors, etc) that allows them to perceive through solid objects and even other characters. As an action, they may make a Notice roll at –4 through up to six feet of almost any material (see below). If attacking a target through an object (see Obstacles in Savage Worlds), they suffers the same –4 penalty to their attack roll as well as the standard multiple action penalty. Finally, each version of this ability has some relatively common material (or situation) that blocks it, such as lead for x-ray vision, overpowering scents for an incredible sense of smell, or extreme noise for mage hearing."
             }
         ]
     },
     {
         "Power": "Illusion",
         "Cost": "2/Level",
-        "Brief": "Creates visual and auditory images ",
+        "Brief": "Creates visual and auditory images",
         "Examples": "Sorcery, mind tricks, holograms",
         "Description": "Illusion allows your character to create imaginary images and sounds. The illusions cannot actually affect the real world, but can pretend to. An imaginary monster might “pick up” a real car, but in truth, the car is just “blotted out” while a false one is hurled by the beast. The illusion must cover the “removed” object, and cannot mimic true invisibility. The range of illusion is sight, and the total volume is a 4” (8 yard) diameter sphere, plus an additional inch (2 yards) per level in the ability.",
         "Modifers": [
             {
                 "Name": "Film Quality",
                 "Cost": "+1",
-                "Description": "Cameras and microphones detect and record the illusions. "
+                "Description": "Cameras and microphones detect and record the illusions."
             },
             {
                 "Name": "Obscurement",
                 "Cost": "+2/+4",
-                "Description": "The illusion may be used to darken or otherwise obscure vision. For 2 points, it inflicts a –2 penalty to all rolls dependent on vision made within. For 4 points, it inflicts a –6 penalty. The mage is immune to their own illusions, but others (including allies) are not. This isn't actual darkness, so low light and other types of vision enhancements don't reduce the penalty. "
+                "Description": "The illusion may be used to darken or otherwise obscure vision. For 2 points, it inflicts a –2 penalty to all rolls dependent on vision made within. For 4 points, it inflicts a –6 penalty. The mage is immune to their own illusions, but others (including allies) are not. This isn't actual darkness, so low light and other types of vision enhancements don't reduce the penalty."
             },
             {
                 "Name": "System Shock",
@@ -631,7 +631,7 @@
             {
                 "Name": "Targeted",
                 "Cost": "–1",
-                "Description": "The illusion affects the mind rather than creating tricks of light. Any character who wishes to “disbelieve” a particular illusion can make an opposed Smarts roll as a free action on her turn. If successful, she can detect what is real and what is false and is immune to the ability for the rest of the encounter. "
+                "Description": "The illusion affects the mind rather than creating tricks of light. Any character who wishes to “disbelieve” a particular illusion can make an opposed Smarts roll as a free action on her turn. If successful, she can detect what is real and what is false and is immune to the ability for the rest of the encounter."
             }
         ]
     },
@@ -645,24 +645,24 @@
     {
         "Power": "Infection",
         "Cost": "3",
-        "Brief": "Strikes target with fast-acting disease ",
+        "Brief": "Strikes target with fast-acting disease",
         "Examples": "Sickening touch, swarm of flies, aura of corruption",
         "Description": "The character infects foes with a magical or extremely fast-acting disease via a Touch Attack. Completely sealed armor protects from infection Touch Attacks, but regular fabric and the like do not. If the attack is successful, the target must make a Vigor roll. Failure means they's infected (see below), success means there is no effect this time, and a raise means the defender is immune to this attacker's infection for the rest of this encounter. An infected victim suffers an immediate level of Fatigue. On their next action, they must make a second Vigor roll. With a raise, there is no further effect and they is immune to any further effects of this particular attacker for the rest of the encounter. Success staves off any further effects this round, but the victim must roll again on their next action. Failure incurs another level of Fatigue. Fatigue can lead to death. One Fatigue level is recovered every day (halved with medical attention).",
         "Modifers": [
             {
                 "Name": "Carrier",
                 "Cost": "–1",
-                "Description": "The character cannot “turn off” her ability to transmit disease. She must wear a hazard or sealed suit at all times or risk infecting her friends. She suffers a –2 Charisma with those aware of her “Typhoid Mary” status. "
+                "Description": "The character cannot “turn off” her ability to transmit disease. She must wear a hazard or sealed suit at all times or risk infecting her friends. She suffers a –2 Charisma with those aware of her “Typhoid Mary” status."
             },
             {
                 "Name": "Contagious",
                 "Cost": "+2",
-                "Description": "Infected persons can pass the infection to anyone who comes in skin contact with them, requiring the same Vigor roll to avoid the effect. "
+                "Description": "Infected persons can pass the infection to anyone who comes in skin contact with them, requiring the same Vigor roll to avoid the effect."
             },
             {
                 "Name": "Strong",
                 "Cost": "+1",
-                "Description": "Vigor rolls to resist infection are made at –2. "
+                "Description": "Vigor rolls to resist infection are made at –2."
             }
         ]
     },
@@ -681,17 +681,17 @@
             {
                 "Name": "Permanent",
                 "Cost": "–2",
-                "Description": "The character is permanently intangible. She must make a Spirit roll to affect the physical world (such as that required by Phase). Whenever she fails such a roll, she suffers Fatigue that can lead to Incapacitation and can only be recovered after one hour. Besides the obvious roleplaying issues, she can only heal with natural healing or via supernatural means (such as abilities). "
+                "Description": "The character is permanently intangible. She must make a Spirit roll to affect the physical world (such as that required by Phase). Whenever she fails such a roll, she suffers Fatigue that can lead to Incapacitation and can only be recovered after one hour. Besides the obvious roleplaying issues, she can only heal with natural healing or via supernatural means (such as abilities)."
             },
             {
                 "Name": "Reflexive Control",
                 "Cost": "+2",
-                "Description": "The mage has an instinctive reaction when becoming corporeal inside a target or if someone attempts to become corporeal inside her. She makes a Vigor roll in such cases, reducing the damage done by one wound for each success and raise. "
+                "Description": "The mage has an instinctive reaction when becoming corporeal inside a target or if someone attempts to become corporeal inside her. She makes a Vigor roll in such cases, reducing the damage done by one wound for each success and raise."
             },
             {
                 "Name": "Tag Along",
                 "Cost": "+2",
-                "Description": "The character can make intangible as much as she can carry in items, or up to two other willing individuals by holding hands or carrying them in her arms. Her Spirit roll is made at –2 to do so and failure causes a level of Fatigue that can cause Incapacitation and is recovered at the rate of one level per hour. The mageine can take no other actions besides movement while carrying others. "
+                "Description": "The character can make intangible as much as she can carry in items, or up to two other willing individuals by holding hands or carrying them in her arms. Her Spirit roll is made at –2 to do so and failure causes a level of Fatigue that can cause Incapacitation and is recovered at the rate of one level per hour. The mageine can take no other actions besides movement while carrying others."
             }
         ]
     },
@@ -705,78 +705,78 @@
             {
                 "Name": "Code Breaker",
                 "Cost": "+1",
-                "Description": "The mage can open electronic locks, bypass security systems, and override other similar protection devices without any tools. This requires a Lockpicking roll modified for the quality of the lock. The character can even try if unskilled and normally n o t allowed an attempt, and still adds the +4 bonus for interface. It takes 1d6 rounds to bypass a system or half that (round down) on a raise. "
+                "Description": "The mage can open electronic locks, bypass security systems, and override other similar protection devices without any tools. This requires a Lockpicking roll modified for the quality of the lock. The character can even try if unskilled and normally n o t allowed an attempt, and still adds the +4 bonus for interface. It takes 1d6 rounds to bypass a system or half that (round down) on a raise."
             }
         ]
     },
     {
         "Power": "Invent",
         "Cost": "2/Level",
-        "Brief": "Mimic other abilities by invention. On the Fly (+3).",
+        "Brief": "Mimic other abilities by invention",
         "Examples": "mage genius, advanced education",
         "Description": "This impressive ability allows an inventor to create one-off devices that duplicate any other ability in this book. A character must have a minimum Smarts of d10, a Knowledge (Engineering) of d10, and a Repair skill of d10 to take this ability. <br><br> The inventor can create a device that mimics any ability in this book. they cannot use the Limitation Modifier for it being a device—that's already assumed—but they can use other Limitations as usual. The cost of the ability duplicated can never be greater than the creator's level of invent. The inventor can make several devices as long as they has the Power Points in invent to pay for them. A mage with invent at level 10 could have two 4-point devices and a third 2-point device, for example. The device invented requires 10 minutes times its original cost to assemble. The devices created are permanent, but can be disassembled for “parts” to make a new device (thereby freeing up the Power Points to invent something new). Devices may be given to other mages, but Trait rolls made to use them are made at –2 as only the inventor truly understands their jury-rigged creations.",
         "Modifers": [
             {
                 "Name": "On The Fly",
                 "Cost": "+3",
-                "Description": "This Modifier allows the inventor the chance to change her abilities quickly. As an action, the character can make a Repair roll to attempt to switch her levels from one ability (or abilities) to a single other ability. She suffers a –1 penalty to the roll for every level devoted to the new ability. If she fails, she not only fails to get the new ability but loses the abilities being changed as well. If the inventor rolls a 1 on her Repair die (regardless of the Wild Die), she is Shaken from a glitch or feedback from the device. "
+                "Description": "This Modifier allows the inventor the chance to change her abilities quickly. As an action, the character can make a Repair roll to attempt to switch her levels from one ability (or abilities) to a single other ability. She suffers a –1 penalty to the roll for every level devoted to the new ability. If she fails, she not only fails to get the new ability but loses the abilities being changed as well. If the inventor rolls a 1 on her Repair die (regardless of the Wild Die), she is Shaken from a glitch or feedback from the device."
             }
         ]
     },
     {
         "Power": "Invisibility",
         "Cost": "4/Level",
-        "Brief": "The mage is invisible ",
+        "Brief": "The mage is invisible",
         "Examples": "Cell alteration, stealth suit",
         "Description": "The character and all their gear become cloaked and difficult to see. Invisible beings leave some tell-tale trace of their presence, whether it's a shimmer, a smell, footsteps, etc., so foes get a Notice roll at –2 per level to detect them if given some reason to do so, or if the invisible character closes within 5” (10 yards). If the invisible character does something obvious like attack or stand in the rain, the penalty to attack is halved and no Notice roll is necessary to detect their presence. Attacks made against invisible mages suffer a –2 penalty per level, to a maximum of –6 (use only the highest penalty if a character has more than one ability-based attack penalty).",
         "Modifers": [
             {
                 "Name": "Permanent",
                 "Cost": "–2",
-                "Description": "The character is always invisible. Besides the obvious roleplaying issues, such as finding an Incapacitated, invisible ally or the difficult of personal relationships, those who try to heal them suffer a –4 penalty since their wounds can't be seen. "
+                "Description": "The character is always invisible. Besides the obvious roleplaying issues, such as finding an Incapacitated, invisible ally or the difficult of personal relationships, those who try to heal them suffer a –4 penalty since their wounds can't be seen."
             },
             {
                 "Name": "Personal",
                 "Cost": "–2",
-                "Description": "The supers' invisibility doesn't cover gear. they must be au natural to gain the full effect. Carrying any object counts as an obvious action for purposes of being noticed. "
+                "Description": "The supers' invisibility doesn't cover gear. they must be au natural to gain the full effect. Carrying any object counts as an obvious action for purposes of being noticed."
             },
             {
                 "Name": "Projection",
                 "Cost": "+4/+6",
-                "Description": "The mage can project her invisibility field. For +4 points, she can share her ability with one adjacent person as an action each round. For +6 points, she can share with one adjacent person as a free action each round, or up to six other adjacent allies as a normal action each round. This Modifier cannot be taken with Personal. "
+                "Description": "The mage can project her invisibility field. For +4 points, she can share her ability with one adjacent person as an action each round. For +6 points, she can share with one adjacent person as a free action each round, or up to six other adjacent allies as a normal action each round. This Modifier cannot be taken with Personal."
             }
         ]
     },
     {
         "Power": "Jinx",
         "Cost": "2",
-        "Brief": "Opponents suffer misfortune. Improved Jinx (+2).",
+        "Brief": "Opponents suffer misfortune",
         "Examples": "Evil eye, curse, black cat",
         "Description": "Enemies constantly suffer minor slips, misfires, and other mishaps when your mage's in action. Any foe making a direct action against your character—whether an attack, Test of Wills, or other action—suffers a mishap if their skill die is a natural 1, regardless of Wild Die. When this occurs, the foe's weapon malfunctions, they slips and falls, a mage villain's ability fails, and so on. The exact effect is up to the Game Master, but should usually cause the foe to miss their turn at the very least.",
         "Modifers": [
             {
                 "Name": "Improved Jinx",
                 "Cost": "+2",
-                "Description": "Foes suffer misfortune on a roll of 1 or 2 on their Trait die. "
+                "Description": "Foes suffer misfortune on a roll of 1 or 2 on their Trait die."
             }
         ]
     },
     {
         "Power": "Leaping",
         "Cost": "1–5",
-        "Brief": "The mage can jump great distances or heights ",
+        "Brief": "The mage can jump great distances or heights",
         "Examples": "Massive strength, springs, thick legs",
         "Description": "Your character may actually be able to leap tall buildings in a single bound. The number of points in this ability determines how far they can jump as a free action. The leaper ignores falling damage for heights up to their vertical distance (unless bound or otherwise prevented from landing on their feet). LEAPING TABLE Level Vertical Distance* Horizontal Distance* 1 2” 4” 2 4” 8” 3 8” 16” 4 16” 32” 5 32” 64” *Table-top inches. Double these numbers for yards.",
         "Modifers": [
             {
                 "Name": "Bounce",
                 "Cost": "+1",
-                "Description": "The character has learned to bounce off vertical surfaces to climb higher than they might otherwise. they may scale any height as long as they has an opposing wall within half their horizontal distance to bounce off of. "
+                "Description": "The character has learned to bounce off vertical surfaces to climb higher than they might otherwise. they may scale any height as long as they has an opposing wall within half their horizontal distance to bounce off of."
             },
             {
                 "Name": "Death From Above",
                 "Cost": "+1",
-                "Description": "If combined with a Fighting attack, the leaper may add their level to any damage caused at the end of their jump. "
+                "Description": "If combined with a Fighting attack, the leaper may add their level to any damage caused at the end of their jump."
             }
         ]
     },
@@ -790,41 +790,41 @@
             {
                 "Name": "Constructs",
                 "Cost": "+3",
-                "Description": "The controller can give a semblance of life to constructs made of their chosen material. Each time this Modifier is purchased creates a Matter Construct (see the sidebar on page 35). Alternatively, they may swap a single construct for a Medium swarm of lesser constructs that split into two small swarms when wounded. See Savage Worlds for swarm statistics. "
+                "Description": "The controller can give a semblance of life to constructs made of their chosen material. Each time this Modifier is purchased creates a Matter Construct (see the sidebar on page 35). Alternatively, they may swap a single construct for a Medium swarm of lesser constructs that split into two small swarms when wounded. See Savage Worlds for swarm statistics."
             },
             {
                 "Name": "Master",
                 "Cost": "+5",
-                "Description": "The controller may affect all forms of matter, but only one type at once. "
+                "Description": "The controller may affect all forms of matter, but only one type at once."
             },
             {
                 "Name": "Range",
                 "Cost": "+2",
-                "Description": "The controller's range is extended to 24”. "
+                "Description": "The controller's range is extended to 24”."
             },
             {
                 "Name": "Requires Material",
                 "Cost": "–2",
-                "Description": "The character cannot create matter and must have a source of it within range to use their ability. "
+                "Description": "The character cannot create matter and must have a source of it within range to use their ability."
             }
         ]
     },
     {
         "Power": "Mind Control",
         "Cost": "5",
-        "Brief": "Manipulate others ",
+        "Brief": "Manipulate others",
         "Examples": "Concentric rings of energy, mesmerism, voodoo dolls",
         "Description": "The ability to control minds is perhaps the ultimate psionic ability. With it, the mentalist can contact and control another mind within 12” by making an opposed Smarts roll as an action. With success, the target becomes a puppet under the character's control. This requires intense concentration, so the controller suffers –1 to all other actions. If she is Shaken or wounded, she must make a Spirit roll or lose control (automatic if she's Incapacitated, sleeps, rendered unconscious, etc). Controlled victims may make another contested Smarts roll to resist any time they's forced to do something anathema to their personality, such as walk off a cliff or attack a loved one (Game Master's call). Success means the character resists for the round and performs no action, while a raise allows them to break free of the controller's grip entirely. (Of course the controller can use the ability on this victim again on their next action.) If a controller also has telepathy, they has a mental link of infinite distance with their victim. The subject may now venture outside the controller's range of 12” and can mentally relay any information the controller requires.",
         "Modifier": [
             {
                 "Name": "Memory Alteration",
                 "Cost": "+2/+4",
-                "Description": "For +2 points, the controller can manipulate the victim's memories so that they does not remember what they did while under mind control. For 2 additional points, the controller can alter the target's memories so they believes they did something else during that time of their own choice. "
+                "Description": "For +2 points, the controller can manipulate the victim's memories so that they does not remember what they did while under mind control. For 2 additional points, the controller can alter the target's memories so they believes they did something else during that time of their own choice."
             },
             {
                 "Name": "Multiple Minds",
                 "Cost": "+2",
-                "Description": "The mentalist can attempt to control another mind each time this Modifier is taken. This does not incur any additional concentration penalty, and attacking multiple minds does not count as a multi-action (though other actions do). "
+                "Description": "The mentalist can attempt to control another mind each time this Modifier is taken. This does not incur any additional concentration penalty, and attacking multiple minds does not count as a multi-action (though other actions do)."
             }
         ]
     },
@@ -838,12 +838,12 @@
             {
                 "Name": "Memory Mastery",
                 "Cost": "+3",
-                "Description": "The mind reader can not only read memories but also alter and repair them. This requires an opposed Smarts roll as if reading the mind (including Fatigue for failure). If successful, the character can remove a short memory. With a raise the mind reader can completely change the memory or remove a longer memory (up to an hour). If repairing a memory (one changed due to this ability, mind control, or perhaps lost to trauma), the mind reader recovers a short memory or a part of a longer one (5 minutes maximum again) on a success, or the entire lost memory on a raise. If the memory was altered by someone else, the mind reader is opposed by the Smarts of the one who changed it. The target may roll their own Smarts as a Cooperative Roll to either side of the contest (depending on whether they wants to reveal or keep the original memory hidden). "
+                "Description": "The mind reader can not only read memories but also alter and repair them. This requires an opposed Smarts roll as if reading the mind (including Fatigue for failure). If successful, the character can remove a short memory. With a raise the mind reader can completely change the memory or remove a longer memory (up to an hour). If repairing a memory (one changed due to this ability, mind control, or perhaps lost to trauma), the mind reader recovers a short memory or a part of a longer one (5 minutes maximum again) on a success, or the entire lost memory on a raise. If the memory was altered by someone else, the mind reader is opposed by the Smarts of the one who changed it. The target may roll their own Smarts as a Cooperative Roll to either side of the contest (depending on whether they wants to reveal or keep the original memory hidden)."
             },
             {
                 "Name": "Mind Rider",
                 "Cost": "+3",
-                "Description": "The mage can see, hear, taste, touch, and feel through the senses of someone she's in contact with. This requires absolute concentration, so no other actions are possible while doing so. "
+                "Description": "The mage can see, hear, taste, touch, and feel through the senses of someone she's in contact with. This requires absolute concentration, so no other actions are possible while doing so."
             }
         ]
     },
@@ -857,31 +857,31 @@
             {
                 "Name": "Summonable",
                 "Cost": "+4",
-                "Description": "The master can summon her minions via warpgate, magical portal, rapid transport, etc., as an action. They arrive within 1d4+1 rounds within 12” of the summoner, and are equipped as suits their role (warriors have swords and chain mail, thugs have guns and knives, etc). "
+                "Description": "The master can summon her minions via warpgate, magical portal, rapid transport, etc., as an action. They arrive within 1d4+1 rounds within 12” of the summoner, and are equipped as suits their role (warriors have swords and chain mail, thugs have guns and knives, etc)."
             },
             {
                 "Name": "mage abilities",
                 "Cost": "Variable",
-                "Description": "Each point spent on this Modifier grants one Power Point to every minion. These may be spent on mage abilities as usual. "
+                "Description": "Each point spent on this Modifier grants one Power Point to every minion. These may be spent on mage abilities as usual."
             }
         ]
     },
     {
         "Power": "Negation",
         "Cost": "4",
-        "Brief": "Nullify mage abilities ",
+        "Brief": "Nullify mage abilities",
         "Examples": "Devices, magic, parasitic touch",
         "Description": "This handy ability allows your mage to negate a foe's Traits (and abilities with the Leach Modifier). With a successful Touch Attack, the negator chooses a skill or attribute and makes an opposed Spirit roll with the target. Success reduces the Trait a die type for each success and raise (to a minimum d4). As an action, the affected character may make a new opposed Spirit roll each turn to shake off the negation. The stolen abilities return automatically if the negator is Incapacitated.",
         "Modifers": [
             {
                 "Name": "Full Spectrum",
                 "Cost": "+5",
-                "Description": "The character affects all of the target's Traits (or abilities if they also has Leach) instead of just one. "
+                "Description": "The character affects all of the target's Traits (or abilities if they also has Leach) instead of just one."
             },
             {
                 "Name": "Leach",
                 "Cost": "+5",
-                "Description": "The negator can negate a ability instead of a Trait. If the target character is more powerful than the negator (GM's call, but generally has more Power Points), they adds +2 to their Spirit roll to resist. "
+                "Description": "The negator can negate a ability instead of a Trait. If the target character is more powerful than the negator (GM's call, but generally has more Power Points), they adds +2 to their Spirit roll to resist."
             }
         ]
     },
@@ -895,26 +895,26 @@
             {
                 "Name": "Strong",
                 "Cost": "+1",
-                "Description": "The victim's Vigor (or Smarts or Spirit) rolls are made at –2. "
+                "Description": "The victim's Vigor (or Smarts or Spirit) rolls are made at –2."
             }
         ]
     },
     {
         "Power": "Parry",
         "Cost": "1/Level",
-        "Brief": "Increases Parry ",
-        "Examples": "Claws, mystic shields, fast reactions, “sixth sense.” ",
+        "Brief": "Increases Parry",
+        "Examples": "Claws, mystic shields, fast reactions, “sixth sense.”",
         "Description": "Your character's Parry increases by +1 each time this ability is taken, to a maximum of +10. This doesn't stack with penalties from other abilities (use only the highest if a character has more than one ability-based attack penalty).",
         "Modifers": [
             {
                 "Name": "Deflect",
                 "Cost": "+4",
-                "Description": "If the mage is armed with a weapon, shield, or other solid item and is hit with a ranged attack, they can sacrifice their next action to deflect the attack using their parry ability. This requires an Agility roll for thrown weapons or –2 versus firearms, energy weapons, or abilities, and –4 versus bursts, double-taps, or three-round bursts. Area effect attacks may not be deflected. If the roll is successful, the attack is harmlessly redirected and misses. With a raise, it hits any available target of the character's choosing within 12”. Roll the attack's base damage, ignoring any raises on the original roll. "
+                "Description": "If the mage is armed with a weapon, shield, or other solid item and is hit with a ranged attack, they can sacrifice their next action to deflect the attack using their parry ability. This requires an Agility roll for thrown weapons or –2 versus firearms, energy weapons, or abilities, and –4 versus bursts, double-taps, or three-round bursts. Area effect attacks may not be deflected. If the roll is successful, the attack is harmlessly redirected and misses. With a raise, it hits any available target of the character's choosing within 12”. Roll the attack's base damage, ignoring any raises on the original roll."
             },
             {
                 "Name": "Protector",
                 "Cost": "+1/+2",
-                "Description": "For 1 point, the character can apply their parry ability to one person adjacent to them as a free action. they loses the Parry bonus for himself while they does so. For 2 points, the character can divide their levels of parry between himself and all adjacent characters as a free action. "
+                "Description": "For 1 point, the character can apply their parry ability to one person adjacent to them as a free action. they loses the Parry bonus for himself while they does so. For 2 points, the character can divide their levels of parry between himself and all adjacent characters as a free action."
             }
         ]
     },
@@ -928,31 +928,31 @@
             {
                 "Name": "Knockout",
                 "Cost": "+3",
-                "Description": "The poison causes a mild coma or unconsciousness. Each round after being poisoned, the victim must make a Vigor roll as a free action. Failure means they's knocked out for 2d6 hours. Success means they must roll again the following round, and a raise means they has fought off the poison is immune to this attacker's poison for the rest of the encounter. "
+                "Description": "The poison causes a mild coma or unconsciousness. Each round after being poisoned, the victim must make a Vigor roll as a free action. Failure means they's knocked out for 2d6 hours. Success means they must roll again the following round, and a raise means they has fought off the poison is immune to this attacker's poison for the rest of the encounter."
             },
             {
                 "Name": "Lethal",
                 "Cost": "+5",
-                "Description": "This works just like Knockout, except that if the roll is failed, the character perishes. "
+                "Description": "This works just like Knockout, except that if the roll is failed, the character perishes."
             },
             {
                 "Name": "Strong",
                 "Cost": "+1",
-                "Description": "The victim's Vigor rolls (and any Healing rolls made to treat them) are made at –2. "
+                "Description": "The victim's Vigor rolls (and any Healing rolls made to treat them) are made at –2."
             }
         ]
     },
     {
         "Power": "Possession",
         "Cost": "8",
-        "Brief": "Take over a target's body ",
+        "Brief": "Take over a target's body",
         "Examples": "Ghosts, soul swapping",
         "Description": "This terrible ability allows a mage-powered being to push a target's soul out of their body so that they may inhabit it himself. To do so, the possessor must be within sight and 24” of their target. they and their target then make opposed Spirit rolls. If the possessor succeeds, they has control over the target for one action. With a raise, they controls them as long as they maintains concentration (–1 to all other actions). Range to the possessor is ignored once the victim is controlled so they may be moved out of sight or over great distances as desired. The controller's own body is completely helpless during this time, so it's best to leave it in a hidden place or protected by a friend. The victim may make an opposed Spirit roll to break free anytime the possessor is Shaken or wounded. If the possessor's body is wounded, their spirit snaps back to it and frees the target. Victims of possession are fully aware of their actions while controlled (though memories might be erased with the mind control ability).",
         "Modifers": [
             {
                 "Name": "Memories",
                 "Cost": "+2",
-                "Description": "The possessor has access to all the victim's memories. "
+                "Description": "The possessor has access to all the victim's memories."
             }
         ]
     },
@@ -966,12 +966,12 @@
             {
                 "Name": "Recovery",
                 "Cost": "+1",
-                "Description": "Your mage halves recovery time for Fatigue. "
+                "Description": "Your mage halves recovery time for Fatigue."
             },
             {
                 "Name": "Regrowth",
                 "Cost": "+2",
-                "Description": "Your mage can recover even from serious traumatic damage. Treat all permanent injuries as temporary. "
+                "Description": "Your mage can recover even from serious traumatic damage. Treat all permanent injuries as temporary."
             }
         ]
     },
@@ -995,41 +995,41 @@
             {
                 "Name": "Speech",
                 "Cost": "+2",
-                "Description": "The mage can speak in her animal form. Since most animals don't have appropriate vocal folds, this usually means some sort of magic or technological trapping. "
+                "Description": "The mage can speak in her animal form. Since most animals don't have appropriate vocal folds, this usually means some sort of magic or technological trapping."
             },
             {
                 "Name": "Swarms",
                 "Cost": "+2/+4",
-                "Description": "The mage can transform into a swarm of smaller creatures. The swarm fills a Small Burst Template for +2 or a Medium Burst Template for +4. "
+                "Description": "The mage can transform into a swarm of smaller creatures. The swarm fills a Small Burst Template for +2 or a Medium Burst Template for +4."
             }
         ]
     },
     {
         "Power": "Shrink",
         "Cost": "4",
-        "Brief": "Reduce Size ",
+        "Brief": "Reduce Size",
         "Examples": "Shrinking pills, magic words, mutated metabolism",
         "Description": "This ability allows the mage to become smaller while retaining their normal strength. The character can shrink down to about a tenth their normal height (between 6 inches and one foot), making them Small (see Savage Worlds). The shrinker is generally more difficult to detect as well (–2 to Notice rolls). While the character has their normal Strength, they is easier to hurt, suffering –2 to Toughness when shrunk. Shrinking or growing back to normal size requires an action to perform. A character cannot use shrink and growth at the same time.",
         "Modifers": [
             {
                 "Name": "Density",
                 "Cost": "+1",
-                "Description": "The character's Toughness is not reduced when shrunk. "
+                "Description": "The character's Toughness is not reduced when shrunk."
             },
             {
                 "Name": "Microscopic",
                 "Cost": "+4",
-                "Description": "The character can become the size of a germ. In this form they cannot generally affect or be affected by the normal world. Even poison gas doesn't affect them at this size, though diseases might manifest as gigantic monsters. On the plus side, they can enter most any place completely unseen (even most “airtight” facilities offer no obstacle), travel through the human body (a la Fantastic Journey), and so on. "
+                "Description": "The character can become the size of a germ. In this form they cannot generally affect or be affected by the normal world. Even poison gas doesn't affect them at this size, though diseases might manifest as gigantic monsters. On the plus side, they can enter most any place completely unseen (even most “airtight” facilities offer no obstacle), travel through the human body (a la Fantastic Journey), and so on."
             },
             {
                 "Name": "Quick Change",
                 "Cost": "+1",
-                "Description": "The character can shrink (or unshrink) as a free action. If they grows during a Fighting attack, they can apply their momentum to the strike, adding +4 to the damage result. "
+                "Description": "The character can shrink (or unshrink) as a free action. If they grows during a Fighting attack, they can apply their momentum to the strike, adding +4 to the damage result."
             },
             {
                 "Name": "Tiny",
                 "Cost": "+4",
-                "Description": "The character can shrink down to an inch or less in size. The modifier to attacks increases to +4/–4 as does the penalty to Notice them (-4). Toughness suffers an additional –2 penalty. "
+                "Description": "The character can shrink down to an inch or less in size. The modifier to attacks increases to +4/–4 as does the penalty to Notice them (-4). Toughness suffers an additional –2 penalty."
             }
         ]
     },
@@ -1043,32 +1043,32 @@
             {
                 "Name": "Blinding Reflexes",
                 "Cost": "+2",
-                "Description": "The mage reacts so quickly she can potentially avoid area effect attacks. Unless caught unaware, she can make an Agility roll vs the attack result. If successful, she moves just outside the closest edge of the explosion (as long as it is within her normal movement). "
+                "Description": "The mage reacts so quickly she can potentially avoid area effect attacks. Unless caught unaware, she can make an Agility roll vs the attack result. If successful, she moves just outside the closest edge of the explosion (as long as it is within her normal movement)."
             },
             {
                 "Name": "Catch and Throw",
                 "Cost": "+2",
-                "Description": "Your mage can catch ranged weapons that miss them and hurl them back instantly. Catching a thrown projectile such as a rock or spear doesn't require a roll. Arrows and other muscle-powered projectiles require an Agility roll. (Bullets can only be caught if the mage has Sonic Speed or greater, and requires an Agility roll at –2.) Throwing the missile back is a normal Throwing roll as a free action with a range of 3/6/12. Thrown weapons such as spears cause their normal damage. Bullets, arrows, and the like cause their normal damage. "
+                "Description": "Your mage can catch ranged weapons that miss them and hurl them back instantly. Catching a thrown projectile such as a rock or spear doesn't require a roll. Arrows and other muscle-powered projectiles require an Agility roll. (Bullets can only be caught if the mage has Sonic Speed or greater, and requires an Agility roll at –2.) Throwing the missile back is a normal Throwing roll as a free action with a range of 3/6/12. Thrown weapons such as spears cause their normal damage. Bullets, arrows, and the like cause their normal damage."
             },
             {
                 "Name": "Pummel",
                 "Cost": "+1",
-                "Description": "Your character can pummel a foe with a multitude of quick strikes. This is a normal Fighting attack consuming the speedster's entire action (no other actions or movement allowed). If the pummel is successful, add the penalty others need to hit the speedster to their damage roll (add +6 to damage with Sonic Speed, for example, +8 for mage Sonic Speed, etc.). "
+                "Description": "Your character can pummel a foe with a multitude of quick strikes. This is a normal Fighting attack consuming the speedster's entire action (no other actions or movement allowed). If the pummel is successful, add the penalty others need to hit the speedster to their damage roll (add +6 to damage with Sonic Speed, for example, +8 for mage Sonic Speed, etc.)."
             },
             {
                 "Name": "Surface Tension",
                 "Cost": "+1",
-                "Description": "This Modifier requires a minimum of Sonic Speed. With it, the character can run across water or even up and down the sides of buildings. The speedster cannot stop moving or they will sink or fall. "
+                "Description": "This Modifier requires a minimum of Sonic Speed. With it, the character can run across water or even up and down the sides of buildings. The speedster cannot stop moving or they will sink or fall."
             },
             {
                 "Name": "Vibrate",
                 "Cost": "+5",
-                "Description": "The speedster can vibrate their molecules so fast they can actually pass through solid objects. This is particularly difficult, so the mage can only move up to 12m per round regardless of their Speed, and automatically gains a level of Fatigue each round it's maintained. The character may never stop inside an object, and must have Near Light Speed to take this Modifier. "
+                "Description": "The speedster can vibrate their molecules so fast they can actually pass through solid objects. This is particularly difficult, so the mage can only move up to 12m per round regardless of their Speed, and automatically gains a level of Fatigue each round it's maintained. The character may never stop inside an object, and must have Near Light Speed to take this Modifier."
             },
             {
                 "Name": "Whirlwind",
                 "Cost": "+2",
-                "Description": "By running in a tight circle (the size of a Large Burst Template or smaller), every creature within must make a Strength roll or be sucked into a miniature whirlwind and thrown into the air. Place all figures 1d10” away from their current position in a d12 direction (read it like a clock face). Creatures or objects weighing over 300 pounds are not tossed, but suffer a –2 penalty until the whirlwind stops or they move out of it, which requires a Strength roll at –2. This tactic consumes the speedster's entire action. "
+                "Description": "By running in a tight circle (the size of a Large Burst Template or smaller), every creature within must make a Strength roll or be sucked into a miniature whirlwind and thrown into the air. Place all figures 1d10” away from their current position in a d12 direction (read it like a clock face). Creatures or objects weighing over 300 pounds are not tossed, but suffer a –2 penalty until the whirlwind stops or they move out of it, which requires a Strength roll at –2. This tactic consumes the speedster's entire action."
             }
         ]
     },
@@ -1082,17 +1082,17 @@
             {
                 "Name": "Downpour",
                 "Cost": "+1",
-                "Description": "The rain is very heavy and comes down in thick sheets. Visibility is reduced to 12”, and the ground becomes very slick. Deep puddles form quickly, and raw earth turns to slippery mud. Anyone running in the mud must make an Agility roll or fall prone and become Shaken. "
+                "Description": "The rain is very heavy and comes down in thick sheets. Visibility is reduced to 12”, and the ground becomes very slick. Deep puddles form quickly, and raw earth turns to slippery mud. Anyone running in the mud must make an Agility roll or fall prone and become Shaken."
             },
             {
                 "Name": "Gale Force",
                 "Cost": "+1",
-                "Description": "The mage can focus the storm into a small but powerful blast once per round by making a Spirit roll. She then places a Large Burst Template anywhere within 24”. All those within must make a Strength roll or be knocked prone and Shaken. "
+                "Description": "The mage can focus the storm into a small but powerful blast once per round by making a Spirit roll. She then places a Large Burst Template anywhere within 24”. All those within must make a Strength roll or be knocked prone and Shaken."
             },
             {
                 "Name": "Lightning Strike",
                 "Cost": "+3",
-                "Description": "The character can call down a bolt of lightning from a storm to strike a single target. This requires a Spirit roll, which acts as the character's attack skill. abilities, Edges, and other abilities that generally subtract from ranged attack rolls subtract from the Spirit roll as well. Damage from a lightning strike is 3d10, and it is considered a Heavy Weapon. It has no range modifier (but the target must be within sight). "
+                "Description": "The character can call down a bolt of lightning from a storm to strike a single target. This requires a Spirit roll, which acts as the character's attack skill. abilities, Edges, and other abilities that generally subtract from ranged attack rolls subtract from the Spirit roll as well. Damage from a lightning strike is 3d10, and it is considered a Heavy Weapon. It has no range modifier (but the target must be within sight)."
             }
         ]
     },
@@ -1106,17 +1106,17 @@
             {
                 "Name": "Area Effect",
                 "Cost": "+2/+4",
-                "Description": "For +2 points, stun affects all targets in a Medium Burst Template. For 4 points, the character can also affect a Large Burst Template if she wishes. "
+                "Description": "For +2 points, stun affects all targets in a Medium Burst Template. For 4 points, the character can also affect a Large Burst Template if she wishes."
             },
             {
                 "Name": "Selective",
                 "Cost": "+2",
-                "Description": "If the mageine has the Area Effect Modifier, Selective allows her to decide which targets within the burst template are affected. "
+                "Description": "If the mageine has the Area Effect Modifier, Selective allows her to decide which targets within the burst template are affected."
             },
             {
                 "Name": "Strong",
                 "Cost": "+1",
-                "Description": "The victim's Vigor (or Smarts or Spirit) rolls are made at –2. "
+                "Description": "The victim's Vigor (or Smarts or Spirit) rolls are made at –2."
             }
         ]
     },
@@ -1130,7 +1130,7 @@
             {
                 "Name": "Not Today",
                 "Cost": "+2",
-                "Description": "Once per session, the character can substitute the mage attribute for any other attribute roll (not skill rolls). A mage strong character might use Strength to Soak damage (grabbing the attacker's fist as it comes in) or a mage intelligent one might use Smarts to break free of an ensnare (finding the thread that unravels the whole thing). "
+                "Description": "Once per session, the character can substitute the mage attribute for any other attribute roll (not skill rolls). A mage strong character might use Strength to Soak damage (grabbing the attacker's fist as it comes in) or a mage intelligent one might use Smarts to break free of an ensnare (finding the thread that unravels the whole thing)."
             }
         ]
     },
@@ -1158,7 +1158,7 @@
     {
         "Power": "Telekinesis",
         "Cost": "2/Level",
-        "Brief": "Moves objects with the mage's mind ",
+        "Brief": "Moves objects with the mage's mind",
         "Examples": "Mind over matter, mental force, magical animation",
         "Description": "Telekinesis is the ability to move objects or creatures (including one's self) with pure thought or will. The range of the ability is 12”, and its Strength starts at d10, increasing a die type per additional level (d12+2 at level 4, and so on). This is the Strength used to throw objects (which still requires a Throwing roll) or damage targets with objects (by Fighting) as if it were wielded by a character of the same Strength. Actively using telekinesis counts as an action, so while a villain may use the ability to carry five baseball bats, striking with each of them is still five separate actions (a –8 multi-action penalty to each). Living Creatures",
         "Cost": "",
@@ -1167,41 +1167,41 @@
             {
                 "Name": "Focus",
                 "Cost": "+3",
-                "Description": "By taking no other actions (including movement), the mage may bypass and ignore the Armor of inanimate objects and vehicles (not people or the armor they wear). "
+                "Description": "By taking no other actions (including movement), the mage may bypass and ignore the Armor of inanimate objects and vehicles (not people or the armor they wear)."
             },
             {
                 "Name": "Heavy Weapon",
                 "Cost": "+1",
-                "Description": "Damage caused by the telekineses counts as a Heavy Weapon. "
+                "Description": "Damage caused by the telekineses counts as a Heavy Weapon."
             },
             {
                 "Name": "Range",
                 "Cost": "+2",
-                "Description": "The range of the ability is 24”, but still requires line of sight. "
+                "Description": "The range of the ability is 24”, but still requires line of sight."
             }
         ]
     },
     {
         "Power": "Telepathy",
         "Cost": "2",
-        "Brief": "Contact others via thought ",
+        "Brief": "Contact others via thought",
         "Examples": "Communicators, psychic connection, conference call",
         "Description": "The character can communicate with friends and allies via mental contact. This is a free action, has a range of one mile, and she can contact as many minds at once as her Smarts die.",
         "Modifers": [
             {
                 "Name": "Broadcast",
                 "Cost": "+1/+3",
-                "Description": "The telepath may contact all minds within one mile. For 3 points, the Broadcast is selective. "
+                "Description": "The telepath may contact all minds within one mile. For 3 points, the Broadcast is selective."
             },
             {
                 "Name": "Mind Rider",
                 "Cost": "+3",
-                "Description": "The telepath can see, hear, taste, touch, and feel through the senses of someone she's in contact with. This requires absolute concentration, so no other use of telepathy is possible while doing so. "
+                "Description": "The telepath can see, hear, taste, touch, and feel through the senses of someone she's in contact with. This requires absolute concentration, so no other use of telepathy is possible while doing so."
             },
             {
                 "Name": "Switchboard",
                 "Cost": "+2",
-                "Description": "The telepath can link a number of minds equal to her Smarts to each other. All of the “guests” can hear each other, however. Only the telepath can send or receive private messages. "
+                "Description": "The telepath can link a number of minds equal to her Smarts to each other. All of the “guests” can hear each other, however. Only the telepath can send or receive private messages."
             }
         ]
     },
@@ -1215,36 +1215,36 @@
             {
                 "Name": "Range",
                 "Cost": "+2/+4",
-                "Description": "For +2 points, the teleporter's range is increased to 24”, and for 2 additional points, h e r range increases to 48”. "
+                "Description": "For +2 points, the teleporter's range is increased to 24”, and for 2 additional points, h e r range increases to 48”."
             },
             {
                 "Name": "Rapid Teleport",
                 "Cost": "+3",
-                "Description": "The character teleports very rapidly around a foe to attack from multiple angles in rapid succession. The ‘porter can divide multiactions or extra attacks over the teleportations. The foe is treated as if they were being ganged up on by as many different foes as the ‘porter's attacks. Three attacks, for example, carry a Gang Up bonus of +2. "
+                "Description": "The character teleports very rapidly around a foe to attack from multiple angles in rapid succession. The ‘porter can divide multiactions or extra attacks over the teleportations. The foe is treated as if they were being ganged up on by as many different foes as the ‘porter's attacks. Three attacks, for example, carry a Gang Up bonus of +2."
             },
             {
                 "Name": "Teleport Other",
                 "Cost": "+5",
-                "Description": "Characters with this ability can teleport others to any point within their range. If the target is friendly, the teleporter makes a Spirit roll (one individual per action, additional targets may be transferred at –1 per character). Hostile foes get an opposed Spirit roll to resist being teleported, with the ‘porter suffering a –1 penalty per additional target to her roll. "
+                "Description": "Characters with this ability can teleport others to any point within their range. If the target is friendly, the teleporter makes a Spirit roll (one individual per action, additional targets may be transferred at –1 per character). Hostile foes get an opposed Spirit roll to resist being teleported, with the ‘porter suffering a –1 penalty per additional target to her roll."
             },
             {
                 "Name": "Traverse",
                 "Cost": "+3",
-                "Description": "The character is able to teleport much farther at the cost of extreme concentration. To use this ability, the teleporter must focus on her destination for at least one full round. She takes no other actions (including free actions) and teleports at the beginning of her action on the next turn. While she is concentrating, anyone attacking the ‘porter effectively has The Drop on her, and if she is Shaken, the teleport attempt fails. Maximum range is determined by the number of rounds of concentration. For one round, the character can teleport up to 100 miles. For two rounds, she can travel 1000 miles, and with the maximum of three rounds, she can travel up to 15,000 miles (anywhere on the planet). With the Game Master's permission, and generally only in campaigns with high ability levels, a full minute's concentration allows the character to teleport anywhere in the multiverse. "
+                "Description": "The character is able to teleport much farther at the cost of extreme concentration. To use this ability, the teleporter must focus on her destination for at least one full round. She takes no other actions (including free actions) and teleports at the beginning of her action on the next turn. While she is concentrating, anyone attacking the ‘porter effectively has The Drop on her, and if she is Shaken, the teleport attempt fails. Maximum range is determined by the number of rounds of concentration. For one round, the character can teleport up to 100 miles. For two rounds, she can travel 1000 miles, and with the maximum of three rounds, she can travel up to 15,000 miles (anywhere on the planet). With the Game Master's permission, and generally only in campaigns with high ability levels, a full minute's concentration allows the character to teleport anywhere in the multiverse."
             }
         ]
     },
     {
         "Power": "Toughness",
         "Cost": "1/Level",
-        "Brief": "Increases Toughness ",
+        "Brief": "Increases Toughness",
         "Examples": "Big guys, dense skin, reinforced bones",
         "Description": "Your character's Toughness improves by +1 from mystical protection, mage strong skin, dense bones, etc. The maximum Toughness bonus from this ability is +10. Note that this is different from armor because it cannot be negated by Armor Piercing attacks.",
         "Modifers": [
             {
                 "Name": "Hardy",
                 "Cost": "+3",
-                "Description": "Your character is so tough only the most serious damage can harm them. If they is Shaken, additional Shaken results have no effect— they do not cause a wound. "
+                "Description": "Your character is so tough only the most serious damage can harm them. If they is Shaken, additional Shaken results have no effect— they do not cause a wound."
             }
         ]
     },
@@ -1252,13 +1252,13 @@
         "Power": "Uncanny Reflexes",
         "Cost": "4/8",
         "Brief": "–2 or –4 to hit the character",
-        "Examples": "Amazing reflexes, extra-sensory perception, calculated trajectories, enhanced danger sense ",
+        "Examples": "Amazing reflexes, extra-sensory perception, calculated trajectories, enhanced danger sense",
         "Description": "As long as the mage is aware of an incoming attack, it suffers a –2 penalty (or –4 for 8 points). This applies to both melee and ranged attacks, but doesn't stack with penalties from other abilities (use only the highest if a character has more than one ability-based attack penalty).",
         "Modifers": [
             {
                 "Name": "Blinding Reflexes",
                 "Cost": "+2",
-                "Description": "The mage can potentially avoid area effect attacks as well. Unless caught unaware, she can make an Agility roll vs the attack result. If successful, she moves just outside the closest edge of the explosion (as long as it is within her normal movement). "
+                "Description": "The mage can potentially avoid area effect attacks as well. Unless caught unaware, she can make an Agility roll vs the attack result. If successful, she moves just outside the closest edge of the explosion (as long as it is within her normal movement)."
             }
         ]
     },
@@ -1286,7 +1286,7 @@
             {
                 "Name": "Large Template",
                 "Cost": "+2",
-                "Description": "The whirlwind uses a Large Burst Template. "
+                "Description": "The whirlwind uses a Large Burst Template."
             },
             {
                 "Name": "Twister",
